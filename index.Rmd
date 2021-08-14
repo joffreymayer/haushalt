@@ -1,9 +1,16 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Haushalt | Tipps und Tricks"
+author: "Joffrey Anthony"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Haushalt
 
+Hallo! :)
+
+In diesem Bookdown zeige ich dir nützliche Tipps, damit du auch ohne "Hotel Mama" überleben kannst. Es geht vom Kochen, Waschen, Reparaturen, bis hin zum Putzen. 
+
+*Du wirst dir immer selbst helfen müssen im Leben, deshalb sind diese "Tricks" da, um dir zu helfen, alle Schwierigkeiten zu meistern.*
+
+Viel Spass, beim Entdecken! :D
