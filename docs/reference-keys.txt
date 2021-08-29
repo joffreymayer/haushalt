@@ -6,3 +6,6 @@ kochen
 kürbis-risotto
 crêpes
 salat-sauce
+steak
+pommes
+sauce-tomate-à-la-tee
