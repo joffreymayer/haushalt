@@ -4,7 +4,7 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 
 ## Kürbis-Risotto
 
-![Kürbis-Risotto Endresultat](./bilder/risotto.jpg)
+![Kürbis-Risotto Endresultat](docs/bilder/kochen/risotto.jpg)
 
 1. Zwiebeln & viel Butter in einer Pfanne anbraten lassen
 2. Wenn Schritt 1) ready, dann 4*120g = 480g Riis in Pfanne mit Zwiebeln und Butter (ohne Wasser!) reintun.
@@ -25,11 +25,11 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
     
 - <u>Für 4 Personen</u>:
 
-![Crêpes Original-Rezept für 4 Personen](./bilder/crepes.jpg)
+![Crêpes Original-Rezept für 4 Personen](docs/bilder/kochen/crepes.jpeg)
 
 ## Salat-Sauce
 
-![Endresultat Salat-Sauce](./bilder/salat-sauce.jpg)
+![Endresultat Salat-Sauce](docs/bilder/kochen/salat-sauce.jpg)
 
 - <u>In Salatschüssel beigeben</u>:
   1. Olivenöl 
