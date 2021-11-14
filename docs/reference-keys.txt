@@ -1,5 +1,7 @@
 haushalt
 badezimmer
+lavabo
+entstopfen-der-lavabo-röhre
 wc
 entkalkung-von-urinstein-anleitung
 kochen
