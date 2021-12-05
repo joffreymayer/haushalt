@@ -1,0 +1,20 @@
+---
+title: "Allgemeine Administration"
+author: "Joffrey Mayer"
+date: "5 12 2021"
+output: html_document
+---
+
+# Allgemeine Administration
+
+In diesem Kapitel zeige ich dir alle Dinge, die du wissen allgemein wissen musst.
+
+## Post
+
+### Adresse auf Rückseite eines Briefumschlags
+
+Wenn du einen Brief an jemanden schickst, musst du deine Adresse auf der Rückseite des Umschalgs schreiben.
+
+```Schreibe alles auf eine Linie!```
+
+
