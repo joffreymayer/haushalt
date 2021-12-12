@@ -1,0 +1,16 @@
+# Elektronische Geräte
+
+## Drucker-Setup
+
+### Für Windows
+
+Wenn du einen **Windows**-Computer / -Maschine an unseren `HP 107w` Drucker andocken willst, dann brauchst du folgende Anweisung zu befolgen: [Set-Up für Drucker in Windows](https://www.youtube.com/watch?v=r3uN9ZAVNfY) 
+
+- <u>Wichtig</u>: 1 zu 1 so ausführen, wie es im Video gezeigt wird!
+
+### Für Mac
+
+Wenn du einen **Mac**-Computer / -Maschine an unseren `HP 107w` Drucker andocken willst, dann brauchst du folgende Anweisung zu befolgen: [Set-Up für Drucker in Mac](https://www.youtube.com/watch?v=vk4O9BxH2Vo) 
+
+- <u>Wichtig</u>: Das Video ist zwar in indisch, aber mit dem Video sollte es verständlich sein! xD
+

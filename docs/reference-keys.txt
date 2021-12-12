@@ -16,3 +16,7 @@ ei-omelette-am-morrgen-1-person
 allgemeine-administration
 post
 adresse-auf-rückseite-eines-briefumschlags
+elektronische-geräte
+drucker-setup
+für-windows
+für-mac
