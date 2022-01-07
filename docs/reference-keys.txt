@@ -21,3 +21,7 @@ elektronische-geräte
 drucker-setup
 für-windows
 für-mac
+entsorgung
+deo
+leer
+abgeloffen
