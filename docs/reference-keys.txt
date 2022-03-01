@@ -29,3 +29,5 @@ wohnen
 wohnungs-suche
 bewerbung
 fragen-für-wohnungsbesichtigung
+ferien
+skiferien-checkliste
