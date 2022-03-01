@@ -1,0 +1,23 @@
+# Wohnen
+
+Hier gebe ich dir alle nützlichen Tricks rund ums Thema Wohnen
+
+## Wohnungs-Suche
+
+- <u>Gute Website, die Wohnungen herausgibt</u>: https://flatfox.ch/de/
+
+## Bewerbung
+
+Um in Zürich eine Wohnung zu finden, musst du dich bewerben. 
+
+Texte dazu hat Vivi verfasst (sie fragen).
+
+## Fragen für Wohnungsbesichtigung
+
+- [ ] <u>Bezüglich Waschküche</u>: Gibt es einen Wochenplan oder "first come first serve"?
+- [ ] Gibt es einen Keller oder einen Estrich?
+- [ ] Wie sind die Nachbarn?
+- [ ] Welchen Preis verlangen Sie, um die Möbel zu übernehmen? // Wie viel kosten die zu übernehmenden Möbel?
+- [ ] Gibt es eine Kaution? Wenn ja, wie hoch ist die Kaution?
+- [ ] Wie viel zahlt der Vormieter?
+
