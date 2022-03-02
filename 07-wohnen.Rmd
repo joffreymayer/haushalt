@@ -14,10 +14,11 @@ Texte dazu hat Vivi verfasst (sie fragen).
 
 ## Fragen für Wohnungsbesichtigung
 
-- [ ] <u>Bezüglich Waschküche</u>: Gibt es einen Wochenplan oder "first come first serve"?
-- [ ] Gibt es einen Keller oder einen Estrich?
-- [ ] Wie sind die Nachbarn?
-- [ ] Welchen Preis verlangen Sie, um die Möbel zu übernehmen? // Wie viel kosten die zu übernehmenden Möbel?
-- [ ] Gibt es eine Kaution? Wenn ja, wie hoch ist die Kaution?
-- [ ] Wie viel zahlt der Vormieter?
+[ ] <u>Self-Check</u>: Hat man in jeder Wohnungsecke Handy-Empfang?
+[ ] <u>Bezüglich Waschküche</u>: Gibt es einen Wochenplan oder "first come first serve"?
+[ ] Gibt es einen Keller oder einen Estrich?
+[ ] Wie sind die Nachbarn?
+[ ] Welchen Preis verlangen Sie, um die Möbel zu übernehmen? // Wie viel kosten die zu übernehmenden Möbel?
+[ ] Gibt es eine Kaution? Wenn ja, wie hoch ist die Kaution?
+[ ] Wie viel zahlt der Vormieter?
 
