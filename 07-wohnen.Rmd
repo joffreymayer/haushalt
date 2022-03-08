@@ -8,17 +8,32 @@ Hier gebe ich dir alle nützlichen Tricks rund ums Thema Wohnen
 
 ## Bewerbung
 
-Um in Zürich eine Wohnung zu finden, musst du dich bewerben. 
+Um in Zürich eine Wohnung zu finden, musst du dich bewerben:
 
-Texte dazu hat Vivi verfasst (sie fragen).
+
+> To get in touch: 
+
+Sehr geehrte Frau / sehr geehrter Herr,
+
+Gerne würden wir - ich, Viviane Walker, und mein Freund, Joffrey Mayer - uns für einen Besichtigungstermin für Ihre ausgeschriebene Wohnung bewerben. 
+
+Damit weniger Hürden zwischen den Parteien besteht, haben wir uns die Mühe gemacht, uns auf unserer Webseite ein bisschen genauer vorzustellen: https://www.unsere-wohnung.ch
+
+Wir hoffen sehr, dass unser kleiner Online-Auftritt von uns, Sie mindestens so begeistert, wie wir es von Ihrer Wohnung sind!
+
+Wir würden uns sehr auf eine positive Antwort Ihrerseits freuen.
+
+Freundliche Grüsse,
+
+Vivane & Joffrey
 
 ## Fragen für Wohnungsbesichtigung
 
-[ ] <u>Self-Check</u>: Hat man in jeder Wohnungsecke Handy-Empfang?
-[ ] <u>Bezüglich Waschküche</u>: Gibt es einen Wochenplan oder "first come first serve"?
-[ ] Gibt es einen Keller oder einen Estrich?
-[ ] Wie sind die Nachbarn?
-[ ] Welchen Preis verlangen Sie, um die Möbel zu übernehmen? // Wie viel kosten die zu übernehmenden Möbel?
-[ ] Gibt es eine Kaution? Wenn ja, wie hoch ist die Kaution?
-[ ] Wie viel zahlt der Vormieter?
+- [ ] <u>Self-Check</u>: Hat man in jeder Wohnungsecke Handy-Empfang?
+- [ ] <u>Bezüglich Waschküche</u>: Gibt es einen Wochenplan oder "first come first serve"?
+- [ ] Gibt es einen Keller oder einen Estrich?
+- [ ] Wie sind die Nachbarn?
+- [ ] Welchen Preis verlangen Sie, um die Möbel zu übernehmen? // Wie viel kosten die zu übernehmenden Möbel?
+- [ ] Gibt es eine Kaution? Wenn ja, wie hoch ist die Kaution?
+- [ ] Wie viel zahlt der Vormieter?
 
