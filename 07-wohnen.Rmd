@@ -43,13 +43,16 @@ Wenn du sehr wenig Ersparnisse & keinen Job hast, dann gibt es die Möglichkeit,
 
 ## Was beachtet werden muss, nach Mietvertrag
 
-- [ ] <u>Kündigungsfristen</u>: Man kann bei unserer Wohnung nur jeweils im März oder September kündigen, wobei **3 Monate im Voraus** eine . Ausserdem darf man - bei uns jedenfalls - frühestens nach 1 Jahr erst künden. 
-  - Wenn man trotzdem früher kündigen will, musst du - als Mieter - die Leute ausfindig machen und NICHT die Verwaltung (was für ein Witz! xD).
+- [ ] <u>Kündigungsfristen</u>: Man kann bei unserer Wohnung nur jeweils im März oder September kündigen, wobei **3 Monate im Voraus** ein **_Einschreibebrief_ mit "amtlichen Formular (<mark>Wo findet man das???</mark>) an die Verwaltung schickt. Ausserdem darf man - bei uns jedenfalls - frühestens nach 1 Jahr erst künden. 
+  - <u>Wichtig</u>: Wenn man trotzdem früher kündigen will, musst du - als Mieter - die Leute ausfindig machen und NICHT die Verwaltung (was für ein Witz! xD).
 - [ ] <u>Kautionen</u>: Diese sind in der Regel 2 bis 3 Monatsmieten, als Sicherheit. Diese musst du - zusätzlich zur ersten Miete - zahlen. Das ist ein **Investment** von circa CHF 6'000, also nicht zu unterschätzen!
   - <u>Wichtig</u>: Die Verwaltung kontaktiert eine Bank, welche ein "Kautionskonto" eröffnet. Du musst den Betrag auf dieses Konto überweisen. Wenn nichts passiert, kannst du dein Geld retour kriegen, nach Ende des Mietvertrags (wie genau, weiss ich noch nicht... <mark>Update folgt</mark>). 
   - <u>Wichtig 2</u>: WENN bis zum Mietantritt das "Bankkonto"Kautionskonto" noch _nicht_ eröffnet wurde, dann musst die Kaution an das (private) Konto der Verwaltung schicken (per Einzahlungsschein). Die Verwaltung ist verpflichtet, 
 - [ ] <u>Nebenkosten</u>: Darunter fallen zum Beispiel Strom, Wasserverbrauch, Kaminfeger etc. Diese _musst_ du bezahlen, zusätzlich zur fixen Miete, JEDEN Monat. Bei uns wäre dies **CHF 155**. 
   - <u>Wichtig</u>: Diese sind **variabel**!! Dh sie können höher / tiefer anfallen. Besonders aufpassen musst du hier - wenn es sehr unsichere wirtschaftliche Zeiten sind - wie jetzt gerade mit dem Ukraine-Krieg, welche die Kosten der Energie & Benzinpreise stark zum steigen bringt...
-- [ ] Adressenänderung: **Innert 8 Tagen**, musst du die neue Gemeinde kontaktieren - bei der **Einwohnerkontrolle** - damit der Staat weiss, dass du umgezogen bist (wegen den Steuern). 
+- [ ] <u>Adressenänderung</u>: **Innert 8 Tagen**, musst du die neue Gemeinde kontaktieren - bei der **Einwohnerkontrolle** - damit der Staat weiss, dass du umgezogen bist (wegen den Steuern). 
+- [ ] <u>Mietzinserhöhungen</u>: Der _Vermieter_ darf nur dann eine (periodische) Mietzinserhöhung vollziehen, wenn du _mindestens_ einen 3 Jahresvertrag unterzeichnet hast. Der Mietzins darf dabei nur jährlich erhöht werden (= "periodische Mietzinserhöhung"). 
+  - <u>Wichtig</u>: Du darfst als Mieter reklamieren, wenn du empfindest, dass der (ersten) Anfangsmietzins viel zu teuer ist (= "wenn der Vermieter den Anfangsmietzins gegenüber dem früheren Mietzins erheblich erhöht hat"). Du musst dann **innert 30 Tagen nach Übernahme der Wohnung die _Schlichtungsbehörde_ (<mark>Wo finde ich die??</mark>) kontaktieren**.
+  - <u>Quelle</u>: Schweizer Obligationsrecht.
 
 
