@@ -54,6 +54,12 @@ Wenn du sehr wenig Ersparnisse & keinen Job hast, dann gibt es die Möglichkeit,
 - [ ] <u>Mietzinserhöhungen</u>: Der _Vermieter_ darf nur dann eine (periodische) Mietzinserhöhung vollziehen, wenn du _mindestens_ einen 3 Jahresvertrag unterzeichnet hast. Der Mietzins darf dabei nur jährlich erhöht werden (= "periodische Mietzinserhöhung"). 
   - <u>Wichtig</u>: Du darfst als Mieter reklamieren, wenn du empfindest, dass der (ersten) Anfangsmietzins viel zu teuer ist (= "wenn der Vermieter den Anfangsmietzins gegenüber dem früheren Mietzins erheblich erhöht hat"). Du musst dann **innert 30 Tagen nach Übernahme der Wohnung die _Schlichtungsbehörde_ (<mark>Wo finde ich die??</mark>) kontaktieren**.
   - <u>Quelle</u>: Schweizer Obligationsrecht.
+  
+### Reklamation bei Mängel
+
+Hier ein Beispiels-Brief, wenn du in der Wohnung Sachen zu bemängeln hast (zu wenig gut geputzt oder Dinge sind kaputt, die du nicht zu verantworten hast etc...):
+
+![Beispiel einer schriftlichen Reklamation zu Mängel in der Wohnung](docs/bilder/wohnen/mangel-in-wohnung.jpeg)
 
 ## Schlüsselübergabe
 
