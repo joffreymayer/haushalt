@@ -6,13 +6,11 @@ Hier gebe ich dir alle nützlichen Tricks rund ums Thema Wohnen
 
 - <u>Gute Website, die Wohnungen herausgibt</u>: https://flatfox.ch/de/
 
-## Bewerbung
+## Besichtigung der Wohnung
 
-Um in Zürich eine Wohnung zu finden, musst du dich bewerben:
+> Email to get in touch: 
 
-
-> To get in touch: 
-
+```
 Sehr geehrte Frau / sehr geehrter Herr,
 
 Gerne würden wir - ich, Viviane Walker, und mein Freund, Joffrey Mayer - uns für einen Besichtigungstermin für Ihre ausgeschriebene Wohnung bewerben. 
@@ -26,12 +24,9 @@ Wir würden uns sehr auf eine positive Antwort Ihrerseits freuen.
 Freundliche Grüsse,
 
 Vivane & Joffrey
+```
 
-## Nice to Know
-
-Wenn du sehr wenig Ersparnisse & keinen Job hast, dann gibt es die Möglichkeit, einen **Solidarhafter** anzugeben. Wenn dieser genug Garantien bringt, dann hast du vielleicht Glück und wirst auserwählt für eine Wohnung ;).
-
-## Fragen für Wohnungsbesichtigung
+### Fragen für Wohnungsbesichtigung
 
 - [ ] <u>Self-Check</u>: Hat man in jeder Wohnungsecke Handy-Empfang?
 - [ ] <u>Bezüglich Waschküche</u>: Gibt es einen Wochenplan oder "first come first serve"?
@@ -41,13 +36,32 @@ Wenn du sehr wenig Ersparnisse & keinen Job hast, dann gibt es die Möglichkeit,
 - [ ] Gibt es eine Kaution? Wenn ja, wie hoch ist die Kaution?
 - [ ] Wie viel zahlt der Vormieter?
 
-## Was beachtet werden muss, nach Mietvertrag
+## Bewerbung
+
+Um in Zürich eine Wohnung zu finden, musst du dich bewerben. Dies geschieht _nach_ der Wohnungsbesichtigung:
+
+### Erhöhung deiner Chancen, wenn du zur Zeit arbeitslos bist
+
+Wenn du sehr wenig Ersparnisse & keinen Job hast, dann gibt es die Möglichkeit, einen **Solidarhafter** anzugeben. Wenn dieser genug Garantien bringt, dann hast du vielleicht Glück und wirst auserwählt für eine Wohnung ;).
+
+### Documents to Include bei offizieller Bewerbung
+
+- [ ] Ein traditionelles Bewerbungsschreiben
+- [ ] Ein Link zu deiner Webseite
+- [ ] Betreibungsregister-Auszug <u>aller</u> Bewerbenden
+- [ ] Lohnausweis
+- [ ] Eventuell Sparkonto-Angabe
+- [ ] Scan deiner ID
+
+***Anschliessend heisst es abwarten. Wenn du einen Anruf bekommst, dann werden Sie dir die "good News" übermitteln. Wenn du eine Absage bekommst (vermutlich per Email), dann kannst du wieder von vorne beginnen. xD***
+
+## Unterzeichnung des Mietvertrags: Was beachtet werden muss
 
 - [ ] <u>Kündigungsfristen</u>: Man kann bei unserer Wohnung nur jeweils im März oder September kündigen, wobei **3 Monate im Voraus** ein **_Einschreibebrief_ mit "amtlichen Formular (<mark>Wo findet man das???</mark>) an die Verwaltung schickt. Ausserdem darf man - bei uns jedenfalls - frühestens nach 1 Jahr erst künden. 
   - <u>Wichtig</u>: Wenn man trotzdem früher kündigen will, musst du - als Mieter - die Leute ausfindig machen und NICHT die Verwaltung (was für ein Witz! xD).
 - [ ] <u>Kautionen</u>: Diese sind in der Regel 2 bis 3 Monatsmieten, als Sicherheit. Diese musst du - zusätzlich zur ersten Miete - zahlen. Das ist ein **Investment** von circa CHF 6'000, also nicht zu unterschätzen!
   - <u>Wichtig</u>: Die Verwaltung kontaktiert eine Bank, welche ein "Kautionskonto" eröffnet. Du musst den Betrag auf dieses Konto überweisen. Wenn nichts passiert, kannst du dein Geld retour kriegen, nach Ende des Mietvertrags (wie genau, weiss ich noch nicht... <mark>Update folgt</mark>). 
-  - <u>Wichtig 2</u>: WENN bis zum Mietantritt das "Bankkonto"Kautionskonto" noch _nicht_ eröffnet wurde, dann musst die Kaution an das (private) Konto der Verwaltung schicken (per Einzahlungsschein). Die Verwaltung ist verpflichtet, 
+  - <u>Wichtig 2</u>: WENN bis zum Mietantritt das "Bankkonto"Kautionskonto" noch _nicht_ eröffnet wurde, dann musst die Kaution an das (private) Konto der Verwaltung schicken (per Einzahlungsschein). Die Verwaltung ist verpflichtet, die  
 - [ ] <u>Nebenkosten</u>: Darunter fallen zum Beispiel Strom, Wasserverbrauch, Kaminfeger etc. Diese _musst_ du bezahlen, zusätzlich zur fixen Miete, JEDEN Monat. Bei uns wäre dies **CHF 155**. 
   - <u>Wichtig</u>: Diese sind **variabel**!! Dh sie können höher / tiefer anfallen. Besonders aufpassen musst du hier - wenn es sehr unsichere wirtschaftliche Zeiten sind - wie jetzt gerade mit dem Ukraine-Krieg, welche die Kosten der Energie & Benzinpreise stark zum steigen bringt...
 - [ ] <u>Adressenänderung</u>: **Innert 8 Tagen**, musst du die neue Gemeinde kontaktieren - bei der **Einwohnerkontrolle** - damit der Staat weiss, dass du umgezogen bist (wegen den Steuern). 
@@ -55,11 +69,32 @@ Wenn du sehr wenig Ersparnisse & keinen Job hast, dann gibt es die Möglichkeit,
   - <u>Wichtig</u>: Du darfst als Mieter reklamieren, wenn du empfindest, dass der (ersten) Anfangsmietzins viel zu teuer ist (= "wenn der Vermieter den Anfangsmietzins gegenüber dem früheren Mietzins erheblich erhöht hat"). Du musst dann **innert 30 Tagen nach Übernahme der Wohnung die _Schlichtungsbehörde_ (<mark>Wo finde ich die??</mark>) kontaktieren**.
   - <u>Quelle</u>: Schweizer Obligationsrecht.
   
-### Reklamation bei Mängel
+### Email Mietkautionskonto
 
-Hier ein Beispiels-Brief, wenn du in der Wohnung Sachen zu bemängeln hast (zu wenig gut geputzt oder Dinge sind kaputt, die du nicht zu verantworten hast etc...):
+Wenn das Mietkautionskonto erst _nach_ Schlüsselübergabe von der Bank eröffnet wurde, dann musst du dies der Verwaltung melden.
 
-![Beispiel einer schriftlichen Reklamation zu Mängel in der Wohnung](docs/bilder/wohnen/mangel-in-wohnung.jpeg)
+> Mein Update-Email für Verwaltung: 
+
+```
+Sehr geehrte Frau Schiesser, sehr geehrter Herr Ruckstuhl,
+
+Wir wollten Ihnen kurz die Information weiterleiten, dass wir heute per Post von der ZKB die Eröffnung des Mietkautionskonto (inkl. Gebühr von CHF 50) bestätigt bekommen haben. Sie finden den Brief im Anhang für den download, falls Sie dies benötigen. 
+
+Die Kontonummer des Mietkautionskonto lautet: 3500-5.215316.6
+Die IBAN lautet des Mietkautionskonto lautet: CH09 0070 0350 0521 5316 6
+
+Die Kaution haben wir - weil das Mietkautionskonto noch nicht vorlag - auf das Konto der Vermieter, Herr Robert Lebet & Frau Thomen-Lepek Mirja, überwiesen, inklusive der CHF 50 für die Eröffnung des Kautionskontos (siehe Quittung im Email). 
+
+Bezüglich des Weiteren Vorgehens: Wir nehmen an, dass Sie nun die obigen Informationen des Kontos an die Vermieter weiterleiten, damit diese den von uns überwiesenen Betrag von CHF 5'350 auf das Kautionskonto übertragen, ist dies korrekt?
+
+Falls Sie weitere Informationen benötigen, können Sie uns gerne eine Email schreiben oder uns per Telefon anrufen. 
+
+Danke für Ihre Mühen & das Aufklären!
+
+Freundliche Grüsse,
+
+Joffrey Mayer & Viviane Walker
+```
 
 ## Schlüsselübergabe
 
@@ -73,3 +108,34 @@ Zu beachten sind insbesondere:
 - [ ] Wie sieht der Hahn & Duschkopf im Badezimmer aus?
 - [ ] Wurden die Rollläden gereinigt?
 - [ ] Sind die Wände sauber / haben keine Löcher / wurden nicht mit Farbe bekleckert?
+
+### Email: Reklamation bei Mängel
+
+*Nach* der Schlüsselübergabe, hatten wir bei unserer ersten Wohnung (gemäss Vertrag), **3 Tage Zeit**, um Mängel anzugeben. 
+
+Hier ein Beispiels-Brief, wenn du in der Wohnung Sachen zu bemängeln hast (zu wenig gut geputzt oder Dinge sind kaputt, die du nicht zu verantworten hast etc...):
+
+![Beispiel einer schriftlichen Reklamation zu Mängel in der Wohnung](docs/bilder/wohnen/mangel-in-wohnung.jpeg)
+
+> Meine Version, weil wir im Nachhinein noch Mängel fanden:
+
+```
+Sehr geehrter Herr Ruckstuhl,
+
+In unserem Vertrag steht, dass wir eine Frist von bis zu 3 Tage haben, um potentielle Mängel zu melden. Meine Partnerin hat heute ebenfalls noch rasch einen Blick auf die Wohnung geworfen. Dabei ist ihr noch der Filter des Geschirrspülers aufgefallen, sowie ein kaputter Dämpfer bei der Toilette und dessen Dichtung. In der Küche gab es noch - hinten beim Dampfabzug - ein bisschen Silikon, welches herunterhing (siehe Fotos im Anhang). 
+
+- <u>Bezüglich Filter, was meinen Sie</u>: *lässt sich dieser mit einer feinen Bürste komplett reinigen oder sollte auf einen neuen zurückgegriffen werden*? Ich tendiere dazu, dass hier eine Reinigung ausreicht, aber vielleicht sieht das Ihr geschultes Auge anders =)
+
+Dann noch eine Frage bezüglich des Parkettbodens, welcher an die Küche angrenzt:
+
+- *Sollen wir bei der Leiste unterhalb des Geschirrspülers ein Klebeband antun (siehe Foto im Anhang)*?
+
+Für alle die obigen angegebenen Mängel sind wir der Meinung, dass wir keinen Ersatz brauchen. Wir wollen mit den Bildern im Anhang einfach, dass beide Parteien diese von uns bemerkten Abnutzungen so vermerkt haben. Deshalb wären wir froh, wenn Sie das Abnahmeprotokoll mit den in diesem Email angegebenen Sachen ergänzen könnten.
+
+Besten Dank für das Aufklären und für Ihre Mühen!
+
+Freundliche Grüsse,
+
+Joffrey Mayer & Viviane Walker
+```
+
