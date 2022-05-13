@@ -139,3 +139,22 @@ Freundliche Grüsse,
 Joffrey Mayer & Viviane Walker
 ```
 
+## Adressenänderung: Anmeldung neue Gemeinde
+
+Nachdem du in die Wohnung eingezogen bist, musst du dich bei der _Einwohnerkontrolle_ melden, damit diese dich auch bei der neuen Gemeinde registrieren. 
+
+Die Adressenänderung hat jedoch als Konsequenz, dass du dich bei diversen Unternehmen für eine korrekte Admistration melden musst, um ihnen Bescheid zu geben, dass du umgezogen bist. 
+
+Folgende Unternehmen musst du kontaktieren, um deine neue Adresse zu registrieren: 
+
+- [ ] Ursprüngliche Gemeinde, in der du _vor_ dem Umzug gewohnt hast.
+- [ ] Alle Banken, bei denen du ein Konto hast.
+- [ ] Deine Universität (wenn du als Student angemeldet bist)
+- [ ] Arbeitgeber
+- [ ] Post (für Briefumleitungen. Kann in einer Filiale gemacht werden)
+- [ ] TV & Handyanbieter
+- [ ] ZVV- & ÖV-Bilett
+- [ ] Versicherung (Krankenkasse, Privathaftpflich & Hausrat)
+- [ ] Freunde & Familienangehörige
+- [ ] Zeitschriften & Abonemente
+- [ ] Hausarzt / Zahnarzt / Frauenarzt
