@@ -2,6 +2,44 @@
 
 Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit du diese leicht replizieren kannst. Viel Spass beim Entdecken! =)
 
+## Meine Kochdatenbank
+
+### Mittagessen
+
+- Brot + Chicoré + Tomaten 
+  - <u>Option 1</u>: Käse
+  - <u>Option 2</u>: Avocado
+  - <u>Option 3</u>: gekochtes Ei
+- Spaghetti
+- Fischtäbli + Reis + Tomatensauce
+- Spargeln + Kartoffeln
+- Flammkuchen (= Speck + Crème-Fraîche + Zwiebeln)
+  - <u>Optional</u>: Zucchetti
+- Thonsalat (Rote Bohnen aus der Dose + Mais + Thon aus der Büchse + genug Mayonnaise + Essig + Öl!)
+- Crêpes (= Mehl + Ei + Milch + Öl)
+- Gebackene Tomaten mit Eifüllung (= Tomaten + Ei + Olivenöl + Balsamico-Essig)
+  - <u>Einfachstes Kochbuch</u>: S. 162 
+- Hörnlisalat
+  - <u>Tiptopf</u>: S. 238
+
+
+### Nachtessen
+
+- Rösti + Speck + Spiegel-Ei
+- Linsenbolognese (= rote Linsen + kleingeschnittene Karotte + Pelati Tomaten // geschälte Tomaten in der Dose gekocht) + Spaghetti
+- Auberginen im Ofen "à la Joffrey" (= Mozarella-Scheiben + Tomensauce + Parmesan + Olivenöl)
+- Linsen-Suppe "à la Dominique" (= grüne Linsen + Kartoffeln + Knollen-Sellerie + Buillon + Wasser + Lorbeerblatt + Nelken)
+- Fischtäbli + Pommes + Spinat + Zitronen-Scheiben
+- Frittiertes Poulet (Paniermehl + Ei!) + Pommes + Avocado-Dipp 
+- Couscous (Karotten + Kichererbsen )
+- Knoblauch-Brot (= Baguette + Knoblauch + Butter + Salz + Pfeffer + Zitronensaft)
+- Taboulé 
+  - <u>Tiptopf</u>: S. 236 
+- Älplermakronen
+  - <u>Tiptopf</u>: S. 243
+- Pain au lait
+  <u>Tiptopf</u>: S. 257
+
 ## Kürbis-Risotto
 
 ![Kürbis-Risotto Endresultat](docs/bilder/kochen/risotto.jpg)
