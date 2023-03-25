@@ -44,3 +44,5 @@ email-reklamation-bei-mängel
 adressenänderung-anmeldung-neue-gemeinde
 ferien
 skiferien-checkliste
+kleider-ausrüstung
+necessaire
