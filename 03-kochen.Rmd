@@ -130,6 +130,12 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 5. Vorbereitete Eier in Pfanne giessen
 6. Eier braten für ca. 2-3 Minuten, bis es nicht mehr roh isch (nachdem es schon 2 Minzten am kochen ist, kannst du auch die Omellette falten, damit es schneller geht)
 
+## Mousse au Chocolat
+
+Befolge die Anleitung:
+
+![Betty-Bossi Rezept für Mousse au Chocolat](docs/bilder/kochen/mousse-au-chocolat.jpeg)
+
 ## Crème Patissière:
 
 Dies eignet sich beispielsweise, wenn du Erdbeer-Cupcakes machst. Du kannst sie **im Migros oder Coop kaufen**.
