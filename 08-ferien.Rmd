@@ -1,12 +1,74 @@
 # Ferien
 
-In diesem Kapitel geht es um das Thema Ferien.
+In diesem Kapitel geht es um das Thema Ferien, insbesondere **zwei Phasen**:
 
-## Ferien in Ausland (Japanreise 2025)
+- Ferienplanung & -buchung,
+- Vobereitung gebuchter Ferien,
+
+## Ferienplanung & -buchung | Phase 1
+
+In dieser ersten Phase geht es darum, dass du 
+
+### Ziele
+
+Hier die Kernfragen, die du beim Abschluss dieser Phase beantworten solltest:
+
+- **Organisatorische Rahmenbedingungen der Reise**:
+  - **In- oder Ausland**: in welches Land soll es gehen? 
+  - **Personen**: Mit wem reist du in die Ferien (inkl. Anzahl Personen)?
+  - **Datum**: wann soll die Reise stattfinden (Abfahrts-Tag beim Start der Reise & Ankunfts-Tag bei der Rückreise)?
+  - **Internet**: brauchst du ein WLAN-Paket von deinem Telefon-Anbieter, um Internet im Ausland zu haben?
+    - <u>**Wenn "ja"**</u>: Welches Angebot eignet sich am besten? 
+  - **Geld**: welches Budget hast du für Reisen in diesem Jahr insgesamt und - falls du bereits Ferien genommen hast - wie viel Budget bleibt dir noch und welchen Anteile gehen an Flug / Hotels / Restaurants / Internet / sonstige Aktivitäten (Sehenswürdigkeiten, Parks, Ausflüge etc...)?
+  - **Zwischen-Etappen**: planst du, deine Ferien nur an einem Ort zu verbringen oder an Mehreren?
+  - **Bargeld & Revolut**: wie viel Geld willst du "Bar" mitnehmen und wie viel auf deine Revolut-Karte?
+    - <u>Bemerkung</u>: *Hängt auch davon ab, ob in einem Land bargeldloses Zahlen "normal" ist oder nicht.*
+- **Flug**:
+  - **Geld & vergangene Erfahrung**: gibt es Kalender-Tage, an denen der Flug besonders günstig / teuer ist?
+  - **Entscheid**: welchen konkreten Flug nimmst du (inkl. Rücksicht auf andere Personen)?
+  - **Flughafen-Ortschaft**: An welchem Flughafen fliegt das Flugzeug ab und an welchem Flughafen landet das Flugzeug.
+  - **Vorlaufzeit für Hinfahrt**: wie viel Zeit willst du dir nehmen, um das Checkin & die Flughafenkontrolle zu überqueren? Suche dir die richtige öV-Verbindung aus bzw. organisiere ein Fahrzug (eigenes Auto oder Taxi).
+  - **Transport bei Ankunft**: wann landest du und welcher Transportmodus wählst du bei der Ankunft? Suche dir die richtige öV-Verbindung aus bzw. organisiere ein Fahrzug (eigenes Auto oder Taxi).
+- **Hotels**:
+  - **Lage & Ort**: In welcher Stadt & an welcher Adresse soll dein Hotel liegen?
+    - <u>Bemerkung</u>: *bei **mehreren** Etappen, musst du auch mehrere Hotels wählen und die jeweiligen Transportfragen (Modus: öV / Taxi / Auto), sowie Abfahrts- & Ankunftszeiten planen.
+  - **Hotelklasse & vergangene Erfahrung**: welche Qualität soll das Hotel haben (z.B. Kosten pro Nacht, Bewertungen anderer Gäste, Anzahl Sterne, Pool / kein Pool, Gym / kein Gym, etc...) 
+  - **Entscheid**: Welche(s) Hotel(s) wählst du?
+  - **Checkout**: ab wann *spätestens* muss du aus dem Zimmer raus sein am Abfahrtstag?
+- **Ferien-Aktivitäten**:
+  - **Planungszeitpunkt**: sollen Ausflüge & Restaurants "spontan" vor Ort - via z.B. Tourismus-Guide (-> "Office du tourisme") - oder bereits vor Reisestart geplant werden? 
+    - <u>Bemerkung</u>: Es ist auch ein **Mix aus beiden Strategien möglich**n.
+  - **Ausflüge**: Wann willst du welche Sehenswürdigkeiten sehen und wie kommst du dorthin?
+  - **Restaurants**: Wie viele und welche Restaurants willst du besuchen (kann auch spontan passieren)?
+- **Notfälle**:
+  - **Botschaft**: Notiere dir die genaue Adresse der Botschaft deines Landes (französischen). Das ist nützlich bei Notfällen (falls du deinen Reisepass verlierst / gestohlen wird, falls du einen medizinischen Notfall hast etc...).
+  - **Reiseversicherung**: Notiere dir die genaue Telefonnummer deiner Reiseversicherung (falls du deinen Reisepass verlierst / gestohlen wird, falls du einen medizinischen Notfall hast etc...).
+
+### Nützliche Tools zur Beantwortung der obigen Kernfragen?
+
+- Flug:
+  - [Ebookers.ch](https://www.ebookers.ch/en/Flights)
+  - Internet-Seite & App der Fluggesellschaft, mit der du fliegen wirst (für Checkin wichtig).
+- Hotels:
+  - [Booking.com](https://www.booking.com/index.de.html)
+
+### Buchung des Fluges?
+
+Hier wird beschrieben, wie du den Flug buchst.
+
+### Buchung des Hotels?
+
+Hier wird beschrieben, wie du buchst.
+
+## Vorbereitung gebuchter Ferien | Phase 2
+
+In dieser Phase wird angenommen, dass du deine Ferien (inkl. Fluag & Hotel) bereits gebucht hast und es nun zur konkreten **"Setup" der Reise** übergeht, damit du sorglos in den Urlaub gehen kannst.
+
+### Ferien in Ausland (Japanreise 2025)
 
 Du machst eine Reise ins Ausland? Hier erhälst du alle Tipps & Tricks, um dich optimal vorzubereiten.
 
-### Vorbereitung
+#### Vorbereitung
 
 - [ ] **Pass-Gültigekeit** kontrollieren (sollte bis mind. **Ausreisedatum** gültig sein, aber eventuell muss das Ablaufdatum auch weiter in der Zukunft liegen, je nach Land...)
 - [ ] **Sonstige Einreisebedingungen** des Lander, in dem du Ferien machst, beachten:
@@ -27,11 +89,11 @@ Du machst eine Reise ins Ausland? Hier erhälst du alle Tipps & Tricks, um dich 
 ![Nützliche Reise-Apps](docs/bilder/reisen/empfohlene-apps-reisen.png)
 
 
-## Skiferien: Checkliste
+### Skiferien: Checkliste
 
 Ich empfehle dir, folgende Dinge mitzunehmen & abzuklären:
 
-### Kleider & Ausrüstung
+#### Kleider & Ausrüstung
 
 - [ ] Skischuhe
 - [ ] Ski
@@ -52,7 +114,7 @@ Ich empfehle dir, folgende Dinge mitzunehmen & abzuklären:
 - [ ] Kappe
 - [ ] Winterstiefel
 
-### Necessaire 
+#### Necessaire 
 
 - [ ] Sonnenbrille
 - [ ] Sonnencrème
@@ -60,7 +122,7 @@ Ich empfehle dir, folgende Dinge mitzunehmen & abzuklären:
 - [ ] Necessaire (Zahnpasta, Zahnbürste, Shampoo, Anti-Allergikum und Rasierer)
 - [ ] Ohrenstäbchen
 
-## Ferien: Procelette chez les Mamies
+### Ferien: Procelette chez les Mamies
 
 - [ ] ID
 - [ ] T-Shirts
@@ -69,5 +131,5 @@ Ich empfehle dir, folgende Dinge mitzunehmen & abzuklären:
 - [ ] Zahnbürste
 - [ ] Ladekabel
 - [ ] Euros 
-- [ ] 10.90 Euros (für 1 Fahrt wegen Péage) --> falls du über Obernai / Saverne gehst (via Landstrassen), dann ist es nur 5.8
+- [ ] 10.90 Euros (für 1 Fahrt wegen Péage, also Total **ca. 25€ auf Revolut übertragen**) --> falls du über Obernai / Saverne gehst (via Landstrassen), dann ist es nur 5.8
 - [ ] Tanken (Hin- & Rückfahrt)

@@ -2,11 +2,17 @@
 
 Hier gebe ich dir alle nützlichen Tricks rund ums Thema Wohnen
 
-## Wohnungs-Suche
+## Wohnungs-Suche | Der Weg zur neuen Wohnung
 
-- <u>Gute Website, die Wohnungen herausgibt</u>: https://flatfox.ch/de/
+Wenn du ins Leben startest <u>oder</u> mit deiner aktuellen Wohnsituation nicht mehr zufrieden bist, dann musst du den folgenden Guide zur Wohnungssuche durchmachen.
 
-## Besichtigung der Wohnung
+Zunächst musst du **Wohnungen besichtigen**. Hier kannst du die typischen **Wohnungsplattformen** auf dem Internet durchforsten
+
+- <u>Gute Website, die Wohnungen herausgeben</u>: 
+  - **Flatfox**: https://flatfox.ch/de/
+  - **HomeGate**: https://www.homegate.ch/
+
+### Schritt 1: Besichtigung von Wohnungen | Datensammlung im Wohnungsmarkt
 
 > Email to get in touch: 
 
@@ -26,7 +32,7 @@ Freundliche Grüsse,
 Vivane & Joffrey
 ```
 
-### Fragen für Wohnungsbesichtigung
+#### Fragen für Wohnungsbesichtigung
 
 - [ ] <u>Self-Check</u>: Hat man in jeder Wohnungsecke Handy-Empfang?
 - [ ] <u>Bezüglich Waschküche</u>: Gibt es einen Wochenplan oder "first come first serve"?
@@ -36,40 +42,75 @@ Vivane & Joffrey
 - [ ] Gibt es eine Kaution? Wenn ja, wie hoch ist die Kaution?
 - [ ] Wie viel zahlt der Vormieter?
 
-## Bewerbung
+### Schritt 2: Bewerbungsunterlagen einreichen
 
-Um in Zürich eine Wohnung zu finden, musst du dich bewerben. Dies geschieht _nach_ der Wohnungsbesichtigung:
+Falls dir eine Wohnung gefallen hat, dann musst du dich bei der Verwaltung bewerben. 
 
-### Erhöhung deiner Chancen, wenn du zur Zeit arbeitslos bist
+- <u>Tipp</u>: **Schnelligkeit bei der Wohnungsbewerbung ist ein Schlüsselfaktor**. 
 
-Wenn du sehr wenig Ersparnisse & keinen Job hast, dann gibt es die Möglichkeit, einen **Solidarhafter** anzugeben. Wenn dieser genug Garantien bringt, dann hast du vielleicht Glück und wirst auserwählt für eine Wohnung ;).
+Die Stadt Zürich besitzt aktuell (2025) quasi keine leeren Wohnung (< 0.1%). Entpsrechend ist es wichtig, _sofort nach_ der Wohnungsbesichtigung eine Bewerbung abzusenden (geht ca. 20-30min, wenn du alle Unterlagen hast).
 
-### Documents to Include bei offizieller Bewerbung
+#### Was für Bewerbungs-Unterlagen braucht es insgesamt für eine Wohnung? | Notwendige Vorarbeit
+
+Hier eine Liste mit allen Dokumenten, die du offiziell für eine Wohnungs-Bewerbung benötigst:
 
 - [ ] Ein traditionelles Bewerbungsschreiben
-- [ ] Ein Link zu deiner Webseite
-- [ ] Betreibungsregister-Auszug <u>aller</u> Bewerbenden
+- [ ] Ein Link zu [deiner Webseite](https://github.com/joffreymayer/unsere-wohnung)
+- [ ] Betreibungsregister-Auszug <u>aller</u> Bewerbenden ([online bestellbar](https://www.stadt-zuerich.ch/de/lebenslagen/einwohner-services/betreibungen/betreibungsregisterauszug-bestellen.html))
 - [ ] Lohnausweis
 - [ ] Eventuell Sparkonto-Angabe
 - [ ] Scan deiner ID
 
 ***Anschliessend heisst es abwarten. Wenn du einen Anruf bekommst, dann werden Sie dir die "good News" übermitteln. Wenn du eine Absage bekommst (vermutlich per Email), dann kannst du wieder von vorne beginnen. xD***
 
-## Unterzeichnung des Mietvertrags: Was beachtet werden muss
+#### Chancen-Maximierung bei Bewerbungsprozess?
 
-- [ ] <u>Kündigungsfristen</u>: Man kann bei unserer Wohnung nur jeweils im März oder September kündigen, wobei **3 Monate im Voraus** ein **_Einschreibebrief_ mit "amtlichen Formular (<mark>Wo findet man das???</mark>) an die Verwaltung schickt. Ausserdem darf man - bei uns jedenfalls - frühestens nach 1 Jahr erst künden. 
+Wie immer im kapitalistischen System: **der entscheidende Faktor ist immer _Geld_**, ob du es willst oder nicht.
+
+- **Geheimtrick**: erstelle eine **[simple statische Webseite](https://github.com/joffreymayer/unsere-wohnung)** über dich und stelle dich dort vor. 
+
+*Eine eigene Bewerbungs-Webseite - in Kombination mit den "traditionellen" Bewerbungsunterlagen - wird dir helfen, jeweils quasi immer in die Endrunde zu gelangen* 🔥
+
+#### Erhöhung deiner Chancen, wenn du zur Zeit arbeitslos bist?
+
+Wenn du...:
+
+- Sehr wenig Ersparnisse, <u>und</u>
+- Keinen Job hast,
+
+... dann gibt es die Möglichkeit, einen **Solidarhafter** anzugeben. Wenn dieser genug Garantien bringt, dann hast du vielleicht Glück und wirst auserwählt für eine Wohnung ;)
+
+### Schritt 3: Unterzeichnung des Mietvertrags
+
+Wenn du ausgewählt wurdest: gratuliere! Als Nächstes wirst du den **Mietvertrag unterzeichnen** müssen.
+
+#### Was muss beachtet werden bei einem Mietvertrag?
+
+- [ ] <u>Kündigungsfristen</u>: Man konnte bei unserer ersten Wohnung am Sonntagsteig 4 (8006, Zürich) nur jeweils im April oder im Oktober kündigen, wobei **3 Monate im Voraus** - also bis Ende Dezember oder Ende Juni - ein **_Einschreibebrief_ mit "amtlichen Formular ([hier eine Vorlage vom Rechtsdienst vom Coop](https://www.vertragshilfe.ch/kuendigungsvorlagen/mietvertrag-kuendigen/)) an die Verwaltung schickt. Ausserdem darf man - bei uns jedenfalls - frühestens nach 1 Jahr "leben in der Wohnung" künden. 
   - <u>Wichtig</u>: Wenn man trotzdem früher kündigen will, musst du - als Mieter - die Leute ausfindig machen und NICHT die Verwaltung (was für ein Witz! xD).
 - [ ] <u>Kautionen</u>: Diese sind in der Regel 2 bis 3 Monatsmieten, als Sicherheit. Diese musst du - zusätzlich zur ersten Miete - zahlen. Das ist ein **Investment** von circa CHF 6'000, also nicht zu unterschätzen!
   - <u>Wichtig</u>: Die Verwaltung kontaktiert eine Bank, welche ein "Kautionskonto" eröffnet. Du musst den Betrag auf dieses Konto überweisen. Wenn nichts passiert, kannst du dein Geld retour kriegen, nach Ende des Mietvertrags (wie genau, weiss ich noch nicht... <mark>Update folgt</mark>). 
-  - <u>Wichtig 2</u>: WENN bis zum Mietantritt das "Bankkonto"Kautionskonto" noch _nicht_ eröffnet wurde, dann musst die Kaution an das (private) Konto der Verwaltung schicken (per Einzahlungsschein). Die Verwaltung ist verpflichtet, die  
+  - <u>Wichtig 2</u>: WENN bis zum Mietantritt das "Bankkonto"Kautionskonto" noch _nicht_ eröffnet wurde, dann musst die Kaution an das (private) Konto der Verwaltung schicken (per Einzahlungsschein). Die Verwaltung ist verpflichtet, die Summe weiterzuleiten an ein Mieterkautions-Konto einer Bank ihrer Wahl. 
 - [ ] <u>Nebenkosten</u>: Darunter fallen zum Beispiel Strom, Wasserverbrauch, Kaminfeger etc. Diese _musst_ du bezahlen, zusätzlich zur fixen Miete, JEDEN Monat. Bei uns wäre dies **CHF 155**. 
   - <u>Wichtig</u>: Diese sind **variabel**!! Dh sie können höher / tiefer anfallen. Besonders aufpassen musst du hier - wenn es sehr unsichere wirtschaftliche Zeiten sind - wie jetzt gerade mit dem Ukraine-Krieg, welche die Kosten der Energie & Benzinpreise stark zum steigen bringt...
-- [ ] <u>Adressenänderung</u>: **Innert 8 Tagen**, musst du die neue Gemeinde kontaktieren - bei der **Einwohnerkontrolle** - damit der Staat weiss, dass du umgezogen bist (wegen den Steuern). 
+- [ ] <u>Adressenänderung (nach Umzug in neue Wohnung)</u>: **Innert 8 Tagen**, musst du die neue Gemeinde kontaktieren - bei der **Einwohnerkontrolle** - damit der Staat weiss, dass du umgezogen bist (wegen den Steuern). 
 - [ ] <u>Mietzinserhöhungen</u>: Der _Vermieter_ darf nur dann eine (periodische) Mietzinserhöhung vollziehen, wenn du _mindestens_ einen 3 Jahresvertrag unterzeichnet hast. Der Mietzins darf dabei nur jährlich erhöht werden (= "periodische Mietzinserhöhung"). 
   - <u>Wichtig</u>: Du darfst als Mieter reklamieren, wenn du empfindest, dass der (ersten) Anfangsmietzins viel zu teuer ist (= "wenn der Vermieter den Anfangsmietzins gegenüber dem früheren Mietzins erheblich erhöht hat"). Du musst dann **innert 30 Tagen nach Übernahme der Wohnung die _Schlichtungsbehörde_ (<mark>Wo finde ich die??</mark>) kontaktieren**.
   - <u>Quelle</u>: Schweizer Obligationsrecht.
   
-### Email Mietkautionskonto
+### Schritt 4: Einrichtung des Mieter-Kautionskontos
+
+Nach der Unterschrift des Miet-Vertrags, geht es im nächsten Schritt darum, das Mietkautions-Konto zu eröffnen.
+
+- Anleitung aller groben Schritt ist [hier (lokal)](/Users/jomaye/Documents/Life/04 Wohnung/02-leben-in-wohnung/00-wichtigste-dokumente/kaution/2025).
+
+#### Bei welchen Banken können Mieterkautionskonten eröffnet werden?
+
+Grundsätzlich bieten alle grössere Schweizer Banken diese Dienstleistung an und es steht dir frei, zu wählen, welche Bank du möchtest.
+
+- **<u>Tipp</u>**: Empfehlenswert ist es, **bei der UBS ein Mietkautionskonto** zu eröffnen, denn aktuell (in 2025) ist es so, dass man keine Unterschrift von der Verwaltung / Vermieter-Partei und somit **geht deutlich schneller, als bei der ZKB (das ging quasi 2 Monate bei der ZKB VS. 1-2 Wochen bei der UBS...)**. 
+
+#### Email Mietkautionskonto _nach_ Schlüsselübergabe (Ausnahme)
 
 Wenn das Mietkautionskonto erst _nach_ Schlüsselübergabe von der Bank eröffnet wurde, dann musst du dies der Verwaltung melden.
 
@@ -96,9 +137,11 @@ Freundliche Grüsse,
 Joffrey Mayer & Viviane Walker
 ```
 
-## Schlüsselübergabe
+### Schritt 5: Schlüsselübergabe
 
-Hier geht es darum, dass du mit dem Vormieter und der Verwaltung anschaust, **ob keine Schäden in der Wohnung** vorhanden sind, die du nicht verursacht hast. Es ist wichtig, dass du hier genau hinschaust, ansonsten wirst du beim Verlassen der Wohnung evenutell für Schäden verantwortlich gemacht, die du gar nicht begangen hast!
+Wenn die Bank deine Überweisung des Kautions-Betrages bestätigt hat, ist es erlaubt, dass die Schlüsselübergabe stattfindet (zwischen Vor- & Nachmieter, sowie der Verwaltung als Intermediär). 
+
+Bei der Schlüsselübergabe geht es darum, dass du mit dem Vormieter und der Verwaltung anschaust, **ob keine Schäden in der _leeren_ Wohnung** vorhanden sind, die du nicht verursacht hast. Es ist wichtig, dass du hier genau hinschaust, ansonsten wirst du beim Verlassen der Wohnung evenutell für Schäden verantwortlich gemacht, die du gar nicht begangen hast!
 
 Zu beachten sind insbesondere:
 
@@ -109,7 +152,48 @@ Zu beachten sind insbesondere:
 - [ ] Wurden die Rollläden gereinigt?
 - [ ] Sind die Wände sauber / haben keine Löcher / wurden nicht mit Farbe bekleckert?
 
-### Email: Reklamation bei Mängel
+Am Ende dieses Termins erhälst du dann die Schlüssel der neuen Wohnung und du kannst nun deine Möbel in die neue
+
+#### Wichtigstes Aufpassfeld bei Schlüsselübergabe & Kündigungen von *alter* Wohnung?
+
+Nur wenn du die Schlüssel der **neuen** Wohnung hast, darfst du auch alle deine Sachen aus der *alten* Wohnung einbringen. 
+
+*Entsprechend musst du den **Kündigungstag (der alten Wohnung)** um - beispielsweise - 1 Tag <u>nach</u> dem Einzugstag festsetzen.* 
+
+Dieses Detail ist entscheidend, denn zwar zahlst du hier vielleicht für mehrere Tage doppelte Miete, aber dafür hast du kein Risiko, für 1 Tag ein Lager zu organisieren, weil du noch warten musst, dass du einen neuen Schlüssel erhälst für die neue Wohnung.
+
+### Schritt 6: Der Umzugstag
+
+Hier organisierst du am besten im Voraus eine Umzug-Firma, welche
+
+- **Tipp**: Kaufe dir viele Umzugskartons (oder miete sie von der Umzugsfirma), sowie Seidenpapier für dein Geschirr. Solche Werkzeuge wirst du **als Vorarbeit** brauchen, damit du am Umzugstag selbst keine Zeit verlierst.
+
+***Nach* dem Umzugstag solltest du dich auf das Aufbauen deines Betts konzentrieren. Aber damit ist der Übergang in die neue Wohnung erfolgt, gratuliere!**
+
+## Leben in aktueller Wohnung | Dein Generalquartier
+
+Die **Wahl deines Wohnort**, sowie **die Innenaustattung** und **Organisation deines Haushaltes** wird letzlich entscheiden, wie "erfolgreich" du und dein:e Partner:in im Alltag haben wirst. 
+
+*Deshalb ist es von grosser Wichtigkeit, dass du dich - progressiv, über die ersten Monate hinweg - gut einlebst in die neue Wohnung.
+
+### Admin zum Leben in Wohnung | "PROD"-Modus
+
+Dokumente solltest du [hier (lokal)](/Users/jomaye/Documents/Life/04 Wohnung/02-leben-in-wohnung/00-wichtigste-dokumente) ablegen.
+
+### Kennenlernen der Wohnung | Phase 1
+
+Hier eine Übersicht der To-Do's:
+
+- [ ] Fotos leerer Wohnung machen (für rasches "Deployment" auf WOhnungsplatformen bei zukünftigem Umzug) und [hier](/Users/jomaye/Documents/Life/04 Wohnung/02-leben-in-wohnung/00-wichtigste-dokumente/fotos-aktuelle-wohnung) ablegen
+- [ ] Dauerauftrag für neue Miete aufsetzen.
+- [ ] Neue Namensschilder bestellen ([Anleitung hier](/Users/jomaye/Documents/Life/04 Wohnung/02-leben-in-wohnung/00-wichtigste-dokumente/namens-schilder)).
+- [ ] Rückerstattung der Mietkaution der vorherigen Wohnung.
+- [ ] Anmeldung in neuer Gemeinde.
+- [ ] Haftplfichtversicherung abschliessen.
+- [ ] Mängel dokumentieren beim Wohnen ([Anleitung hier](/Users/jomaye/Documents/Life/04 Wohnung/02-leben-in-wohnung/00-wichtigste-dokumente/maengel-bericht)).
+- [ ] Möglicherweise Mietzins anfechten (falls Referenzzins-Senkungen, [siehe Anleitung hier](/Users/jomaye/Documents/Life/04 Wohnung/02-leben-in-wohnung/00-wichtigste-dokumente/mietzins-reduktion/2025))
+
+#### Email: Reklamation bei Mängel
 
 *Nach* der Schlüsselübergabe, hatten wir bei unserer ersten Wohnung (gemäss Vertrag), **3 Tage Zeit**, um Mängel anzugeben. 
 
@@ -139,7 +223,7 @@ Freundliche Grüsse,
 Joffrey Mayer & Viviane Walker
 ```
 
-## Adressenänderung: Anmeldung neue Gemeinde
+#### Adressenänderung: Anmeldung neue Gemeinde
 
 Nachdem du in die Wohnung eingezogen bist, musst du dich bei der _Einwohnerkontrolle_ melden, damit diese dich auch bei der neuen Gemeinde registrieren. 
 
@@ -158,3 +242,110 @@ Folgende Unternehmen musst du kontaktieren, um deine neue Adresse zu registriere
 - [ ] Freunde & Familienangehörige
 - [ ] Zeitschriften & Abonemente
 - [ ] Hausarzt / Zahnarzt / Frauenarzt
+
+### Einrichten der Wohnung | Phase 2
+
+Hier eine Übersicht der To-Do's:
+
+- [ ] Grundriss der leeren Wohnung abmessen, um die richtigen Möbel zu finden (falls du noch zu wenig / nicht richtige Ausstattung hast)
+- [ ] Mach mehrere Ausflüge - im Verlauf der ersten Wochen -  und gehe dabei in folgende spezialisierte Wohn-Geschäfter, um dir dein Wohnkonzept für Küche, Bad, Schlafzimmer, Wohnzimmer, Keller und Balkon einzukaufen:
+  - IKEA (Dietlikon),
+  - Pfister (Dietlikon),
+  - Livique (Dietlikon),
+  - Maison du Monde (Dietlikon),
+  - Jumbo (Dietlikon oder Hinwil)
+  - Jysk (Hinwil).
+- [ ] Entscheide, welche Möbel du nun willst.
+- [ ] Lieferung der Möbel zu Hause.
+- [ ] Montage der Möbel zu Hause.
+
+***Wichtig zu verstehen ist, dass - falls du noch gar keine Möbel hast (oder nur sehr wenige) - der Prozess hier sehr lange sein kann und sich <u>über mehrere Monate (gar Jahre)</u> ausstrecken kann.***
+
+## Laufender Betrieb der Wohnung 
+
+Egal in welcher Phase du dich im Leben befindest, benötigt eine Wohnung **regelmässige Pflege**. 
+
+### Was gehört zur Pflege einer Wohnung? | Übersicht der Massnahmen
+
+Ziel dieses Kapitel ist es, dir die **wichtigsten Gewohnheiten zur Pflege einer Wohnung** zu erklären, insbesondere:
+
+- Regelmässiges Lüften (täglich).
+- Regelmässiges Putzen der ganzen Wohnung (2x pro Monat).
+- Regelmässiges Pflegen der Küchen- & Waschgeräte im Bad und Waschküche (jedes halbe Jahr).
+
+### Warum ist die sorgfältige Pflege der Wohnung wichtig? | Relevanz 
+
+Folgende Konsequenzen sind Beispiele, welche Risiken bestehen, wenn du deine Wohnung nicht regelmässig pflegst:
+
+- **Monetäre Konsequenzen**: Teure Küchengeräte (z.B. Waschmaschine oder Ofen) oder Möbel müssen schneller ersetzt werden und du musst grössere Summen auf den Tisch legen, um die Geräte zu ersetzen.
+- **Gesundheitliche Konsequenzen**: Wenn die wegen mangelndem Putzen schnell abgenutzt wird oder wegen mangelndem Lüften Schimmelbildungen bei den Fenstern bildet, dann kann das zu (langfristig) schwerwiegende gesundheitliche Konsequenzen führen. 
+
+
+### Regelmässiges Lüften (2-3x pro Tag) | Massnahme 1
+
+#### Warum muss man regelmässig lüften? | Das Problem
+
+Deine Fenster "schwitzen" und es bildet sich - bei grösseren Temperaturunterschieden zwischen drinnen & draussen (insb. **im Winter oder früher Morgens in kälteren Sommernächten**), in Kombination mit höherer Luftfeuchtigkeit drinnen (hängt von der Isolation der Wohnung & Lüftungsverhalten ab) - deshalb **Kondenswasser** an den Ränden der Fensterscheiben. Das Wasser fliesst auf das Silikon der Scheiben runter und es kann sich dadurch **Schimmel** bilden.
+
+- <u>Das Problem ist hier detaillierter beschrieben (ab 0:20-1:10)</u>: https://www.youtube.com/watch?v=JxZp4ScObHQ&t=20s
+
+![Beispiel, wie Schimmel entstehen kann](/bilder/wohnen/betrieb-wohnung/1-typisches-problem-schimmel.MOV)
+
+#### Stosslüften | Die Lösung
+
+Um den neggativen "Schimmel"-Effekt der Kondensation an deinen Fenster vorzubeugen, ist (stark) empfohlen **täglich 2-3x Stosslüften** zu betreiben:
+
+- Du öffnest alle deine Fenster komplett und lüftest 5-10min.
+  - <u>**Tipp**</u>: Mach das **während des Kochens** (am Mittag & Abend) oder nach dem Duschen, weil dadurch **enorm viel Wasserdampf (und somit Luftfeuchtigkeit)** entsteht und durch das Lüften die ganze mit Wasserdampf gefüllte Luft evakuiert wird.
+  
+### Regelmässiges Putzen der ganzen Wohnung (2x pro Monat) | Massnahme 2
+
+Hierbei geht es darum, dass du deine Wohnung regelmässig putzt, damit du **höhere Lebensqualität & Lebensfreude hast im Alltag**.
+
+Hier die Liste, das zum Putzen dazu gehört:
+
+- **Boden**:
+  - Mit dem **Wisch-Mopp** den ***gesammten* Boden der Wohnung** aufwischen und Staub, Dreck & Haare in Häufchen versammeln.
+  - Anschliessend mit **Staubsauger** die Staubhügel aufsaugen.
+- **Bad**:
+  - Badewanne & Lavabo mit **Cif & Schwamm** säubern.
+  - **Boden mit feuchtem Tuch** waschen.
+  - Spiegel mit **Fenster-Spray** reinigen.
+  - Alle **Abstelloberflächen entstauben**.
+- **Möbel & TV**:
+  - Mit **Swiffer abstauben**.
+
+### Regelmässiges Pflegen der Küchen- & Waschgeräte im Bad und Waschküche (2x pro Jahr) | Massnahme 3
+
+Hierbei geht es darum, dass du - mit Putzen - die **Abschreibung aller deiner Haushaltsgeräte vorbeugst**.
+
+Hier die Liste, das zur Pflage der Haushaltsgeräte dazu gehört:
+
+- **Küche**:
+  - **Mikrowelle mit feuchtem Tuch** von Essensreste säubern
+  - **Teekanne entkalken** und säubern.
+  - **Ofen** & Platten gründlich säubern.
+  - **Luftabzug**: Oberfläche & Filter reinigen
+  - **Abfluss**: Entstopfen mit mechanischer Bürste.
+- **Wohnzimmer**:
+  - Leder-Sofa pflegen (siehe [Anleitung IKEA](https://www.ikea.com/ch/de/p/stockholm-3er-sofa-seglora-naturfarben-80245051/)):
+    - Mit einem Staubwedel reinigen oder vorsichtig mit einer weichen Bürste staubsaugen.
+    - Mit einem feuchten Tuch abwischen.
+    - Vor direkter Sonneneinstrahlung schützen, um Austrocknen vorzubeugen.
+  - Teppich pflegen (siehe QR-Code auf Teppich).
+- **Bad**:
+  - **Abfluss**: Haare und sonstige Überreste aus Abfluss entfernen.
+  - **WC**: entkalken, falls nötig.
+- **Waschküche**:
+  - Wasch-Zelle entstauben.
+  - Waschmaschine:
+    - Führen Sie alle paar Wochen einen heißen Waschgang (60-90°C) mit einem speziellen Reiniger, Zitronensäure oder Geschirrspültab durch, um Bakterien, Schimmel und Kalk zu bekämpfen und Gerüche zu vermeiden.
+    - Tumbler (siehe [Migros-Anleitung](https://www.migros.ch/de/content/migmag-tumbler-reinigen)):
+      - **Nach jeder Nutzung putzen**:
+        - **Flusensieb**: Darin sammeln sich nach jeder Nutzung Fusseln und Staub.
+        - **Behälter fürs Flusensieb**: Vergiss nicht, die Halterung, in der das Flusensieb steckt, **regelmässig mit einem feuchten Lappen** abzuwischen. 
+        - **Trommel und Tür**: Innerhalb der Trommel und an der Tür des Tumblers sammeln sich ebenfalls Fusseln. Darum solltest du die Trommel jedes Mal kurz **mit einem feuchten Lappen** abwischen.
+      - **Regelmässig reinigen**:
+        - **Wasserbehälter**: Ist dein Tumbler nicht ans Abwasser angeschlossen, musst du das Restwasser nach einigen Nutzungen leeren. Dafür musst du den Wasserbehälter entfernen. Dieser befindet sich meist oben rechts. Mit der Zeit können sich dort auch **üble Gerüche** bilden. Um den Behälter zu reinigen, füllst du heisses, nicht kochendes Wasser in den Behälter. Mische etwas Essig oder Zitronensäure bei. Schüttle den Wasserbehälter anschliessend und lass das Gemisch bis zu einer Stunde einwirken. Spüle den Behälter dann mehrmals gut aus.
+
+
