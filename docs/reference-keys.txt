@@ -75,6 +75,10 @@ skiferien-checkliste
 kleider-ausrüstung
 necessaire
 ferien-procelette-chez-les-mamies
+vorbereitung-zum-flug-phase-3
+checkin
+ankuft-beim-flughafen-am-ablugs-tag
+nach-der-reise-letzte-phase
 sport
 ernährung
 investments

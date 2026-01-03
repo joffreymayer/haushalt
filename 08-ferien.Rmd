@@ -13,44 +13,53 @@ In dieser ersten Phase geht es darum, dass du
 
 Hier die Kernfragen, die du beim Abschluss dieser Phase beantworten solltest:
 
-- **Organisatorische Rahmenbedingungen der Reise**:
-  - **In- oder Ausland**: in welches Land soll es gehen? 
-  - **Personen**: Mit wem reist du in die Ferien (inkl. Anzahl Personen)?
-  - **Datum**: wann soll die Reise stattfinden (Abfahrts-Tag beim Start der Reise & Ankunfts-Tag bei der Rückreise)?
-  - **Internet**: brauchst du ein WLAN-Paket von deinem Telefon-Anbieter, um Internet im Ausland zu haben?
-    - <u>**Wenn "ja"**</u>: Welches Angebot eignet sich am besten? 
-  - **Geld**: welches Budget hast du für Reisen in diesem Jahr insgesamt und - falls du bereits Ferien genommen hast - wie viel Budget bleibt dir noch und welchen Anteile gehen an Flug / Hotels / Restaurants / Internet / sonstige Aktivitäten (Sehenswürdigkeiten, Parks, Ausflüge etc...)?
-  - **Zwischen-Etappen**: planst du, deine Ferien nur an einem Ort zu verbringen oder an Mehreren?
-  - **Bargeld & Revolut**: wie viel Geld willst du "Bar" mitnehmen und wie viel auf deine Revolut-Karte?
+- [ ] **Organisatorische Rahmenbedingungen der Reise**:
+  - [ ] **In- oder Ausland**: in welches Land soll es gehen? 
+  - [ ] **Personen**: Mit wem reist du in die Ferien (inkl. Anzahl Personen)?
+  - [ ] **Datum**: wann soll die Reise stattfinden (Abfahrts-Tag beim Start der Reise & Ankunfts-Tag bei der Rückreise)?
+  - [ ] **Internet**: brauchst du ein WLAN-Paket von deinem Telefon-Anbieter, um Internet im Ausland zu haben?
+    - [ ] <u>**Wenn "ja"**</u>: Welches Angebot eignet sich am besten? 
+  - [ ] **Geld**: welches Budget hast du für Reisen in diesem Jahr insgesamt und - falls du bereits Ferien genommen hast - wie viel Budget bleibt dir noch und welchen Anteile gehen an Flug / Hotels / Restaurants / Internet / sonstige Aktivitäten (Sehenswürdigkeiten, Parks, Ausflüge etc...)?
+  - [ ] **Zwischen-Etappen**: planst du, deine Ferien nur an einem Ort zu verbringen oder an Mehreren?
+  - [ ] **Bargeld & Revolut**: wie viel Geld willst du "Bar" mitnehmen und wie viel auf deine Revolut-Karte?
     - <u>Bemerkung</u>: *Hängt auch davon ab, ob in einem Land bargeldloses Zahlen "normal" ist oder nicht.*
-- **Flug**:
-  - **Geld & vergangene Erfahrung**: gibt es Kalender-Tage, an denen der Flug besonders günstig / teuer ist?
-  - **Entscheid**: welchen konkreten Flug nimmst du (inkl. Rücksicht auf andere Personen)?
-  - **Flughafen-Ortschaft**: An welchem Flughafen fliegt das Flugzeug ab und an welchem Flughafen landet das Flugzeug.
-  - **Vorlaufzeit für Hinfahrt**: wie viel Zeit willst du dir nehmen, um das Checkin & die Flughafenkontrolle zu überqueren? Suche dir die richtige öV-Verbindung aus bzw. organisiere ein Fahrzug (eigenes Auto oder Taxi).
-  - **Transport bei Ankunft**: wann landest du und welcher Transportmodus wählst du bei der Ankunft? Suche dir die richtige öV-Verbindung aus bzw. organisiere ein Fahrzug (eigenes Auto oder Taxi).
-- **Hotels**:
-  - **Lage & Ort**: In welcher Stadt & an welcher Adresse soll dein Hotel liegen?
-    - <u>Bemerkung</u>: *bei **mehreren** Etappen, musst du auch mehrere Hotels wählen und die jeweiligen Transportfragen (Modus: öV / Taxi / Auto), sowie Abfahrts- & Ankunftszeiten planen.
-  - **Hotelklasse & vergangene Erfahrung**: welche Qualität soll das Hotel haben (z.B. Kosten pro Nacht, Bewertungen anderer Gäste, Anzahl Sterne, Pool / kein Pool, Gym / kein Gym, etc...) 
-  - **Entscheid**: Welche(s) Hotel(s) wählst du?
-  - **Checkout**: ab wann *spätestens* muss du aus dem Zimmer raus sein am Abfahrtstag?
-- **Ferien-Aktivitäten**:
-  - **Planungszeitpunkt**: sollen Ausflüge & Restaurants "spontan" vor Ort - via z.B. Tourismus-Guide (-> "Office du tourisme") - oder bereits vor Reisestart geplant werden? 
+- [ ] **Flug**:
+  - [ ] **Geld & vergangene Erfahrung**: gibt es Kalender-Tage, an denen der Flug besonders günstig / teuer ist?
+  - [ ] **Entscheid**: welchen konkreten Flug nimmst du (inkl. Rücksicht auf andere Personen)?
+  - [ ] **Flughafen-Ortschaft**: An welchem Flughafen fliegt das Flugzeug ab und an welchem Flughafen landet das Flugzeug.
+  - [ ] **Vorlaufzeit für Hinfahrt**: wie viel Zeit willst du dir nehmen, um das Checkin & die Flughafenkontrolle zu überqueren? Suche dir die richtige öV-Verbindung aus bzw. organisiere ein Fahrzug (eigenes Auto oder Taxi).
+    - <u>Aktuell unklar</u>: Ab wann lohnt sich eine Auto-Vermietung?
+  - [ ] **Transport bei Ankunft**: wann landest du und welcher Transportmodus wählst du bei der Ankunft? Suche dir die richtige öV-Verbindung aus bzw. organisiere ein Fahrzug (eigenes Auto oder Taxi).
+- [ ] **Hotels**:
+  - [ ] **Lage & Ort**: In welcher Stadt & an welcher Adresse soll dein Hotel liegen?
+    - <u>Bemerkungen</u>: 
+      - *Bei **mehreren** Etappen, musst du auch mehrere Hotels wählen und die jeweiligen Transportfragen (Modus: öV / Taxi / Auto), sowie Abfahrts- & Ankunftszeiten planen.
+      - Hotels immer **relativ zum City-Center** betrachten. Wenn du nur sehr kurze Zeit Ferien machst und dein Hotel weit Abseits vom City-Center liegt, ist es empfehlenswert, dein **Gepäck in einem Schrankfach** - beispielsweise an einem Bahnhof oder bei der Gemeinde - zu lassen, um keine Zeit (mehrere Stunden) zu verlieren und zum Hotel zu fahren, nur um das Gepäck abzulegen.
+  - [ ] **Hotelklasse & vergangene Erfahrung**: welche Qualität soll das Hotel haben (z.B. Kosten pro Nacht, Bewertungen anderer Gäste, Anzahl Sterne, Pool / kein Pool, Gym / kein Gym, etc...) 
+  - [ ] **Entscheid**: Welche(s) Hotel(s) wählst du?
+  - [ ] **Checkout**: ab wann *spätestens* muss du aus dem Zimmer raus sein am Abfahrtstag?
+- [ ] **Ferien-Aktivitäten**:
+  - [ ] **Planungszeitpunkt**: sollen Ausflüge & Restaurants "spontan" vor Ort - via z.B. Tourismus-Guide (-> "Office du tourisme") - oder bereits vor Reisestart geplant werden? 
     - <u>Bemerkung</u>: Es ist auch ein **Mix aus beiden Strategien möglich**n.
-  - **Ausflüge**: Wann willst du welche Sehenswürdigkeiten sehen und wie kommst du dorthin?
-  - **Restaurants**: Wie viele und welche Restaurants willst du besuchen (kann auch spontan passieren)?
-- **Notfälle**:
-  - **Botschaft**: Notiere dir die genaue Adresse der Botschaft deines Landes (französischen). Das ist nützlich bei Notfällen (falls du deinen Reisepass verlierst / gestohlen wird, falls du einen medizinischen Notfall hast etc...).
-  - **Reiseversicherung**: Notiere dir die genaue Telefonnummer deiner Reiseversicherung (falls du deinen Reisepass verlierst / gestohlen wird, falls du einen medizinischen Notfall hast etc...).
+  - [ ] **Ausflüge**: Wann willst du welche Sehenswürdigkeiten sehen und wie kommst du dorthin?
+  - [ ] **Restaurants**: Wie viele und welche Restaurants willst du besuchen (kann auch spontan passieren)?
+- [ ] **Notfälle**:
+  - [ ] **Botschaft**: Notiere dir die genaue Adresse der Botschaft deines Landes (französischen). Das ist nützlich bei Notfällen (falls du deinen Reisepass verlierst / gestohlen wird, falls du einen medizinischen Notfall hast etc...).
+  - [ ] **Reiseversicherung**: Notiere dir die genaue Telefonnummer deiner Reiseversicherung (falls du deinen Reisepass verlierst / gestohlen wird, falls du einen medizinischen Notfall hast etc...).
 
 ### Nützliche Tools zur Beantwortung der obigen Kernfragen?
 
+- Allgemein:
+  - [Google Maps](https://www.google.com/maps) für Fahrpläne, Adressen, Flüge, Hotels oder Restaurants.
+  - [Instagram-App](https://www.instagram.com/) für trendige Ferien-Desitationen, Restaurants oder Hotels.
+  - [Polarstep-App](https://www.polarsteps.com/de/) für das eigene Tracking deiner Reise (inkl. Fotos).
 - Flug:
   - [Ebookers.ch](https://www.ebookers.ch/en/Flights)
   - Internet-Seite & App der Fluggesellschaft, mit der du fliegen wirst (für Checkin wichtig).
 - Hotels:
   - [Booking.com](https://www.booking.com/index.de.html)
+- Restaurants:
+  - [Tripadvisor-App](https://www.tripadvisor.com/) für gut bewertete Restaurants.
 
 ### Buchung des Fluges?
 
@@ -82,6 +91,7 @@ Du machst eine Reise ins Ausland? Hier erhälst du alle Tipps & Tricks, um dich 
   - [Europe Assistance](https://online-services.europ-assistance.ch/de/lp-reiseversicherung) (für _eine_ Reise <u>und</u> für _mehrere_ Personen).
   - [Reiseversicherung Mobiliar](https://www.mobiliar.ch/privatpersonen/fahrzeuge-und-reisen/reiseversicherung) für ein **ganzes Jahr**.
   - [SOS144](https://www.sos144.ch/de), das die Rega inkludiert.
+- [ ] **Leere Wohnung: Home-Sitter**  für deine leere Wohnung suchen.
 - [ ] **Für Handy & co.: Ladegerät-Typ** prüfen (für genügend Akku).
 - [ ] **Flug: Check-In 24h** vor Abflug (via App der Fluggesellschaft möglich).
 - [ ] **Nützliche Reise-Apps herunterladen**, welche beim Reisen nützlich sind, hier einige Beispiele (Stand: 2025):
@@ -133,3 +143,26 @@ Ich empfehle dir, folgende Dinge mitzunehmen & abzuklären:
 - [ ] Euros 
 - [ ] 10.90 Euros (für 1 Fahrt wegen Péage, also Total **ca. 25€ auf Revolut übertragen**) --> falls du über Obernai / Saverne gehst (via Landstrassen), dann ist es nur 5.8
 - [ ] Tanken (Hin- & Rückfahrt)
+
+## Vorbereitung zum Flug | Phase 3
+
+### Checkin
+
+Hier wird beschrieben, wie das Checkin abläuft.
+
+### Ankuft beim Flughafen am Ablugs-Tag
+
+Hier der Ablauf:
+
+1. Falls du ein Baggage hast (kein Handgepäck), dann musst du zuerst so eine Flugbegleiter-Nummer an so einem Automaten selbser ausdrucken. —> wenn es ausgedruckt ist, klebe es auf deinem Gepäck.
+2. Gehe zur **Gepäckübergabe**. Dort wird das Gepäck gewogen und weggeschickt zum Flugzeug ✈️
+3. Dann gehe **Richtung „Departure“** —> dein Ticket musst du dem Scanner zeigen und du wirst durchgelassen.
+4. Dann gehe durch den **Zoll** —> alle Flüssigkeiten in ein transparentes Täschchen tun & **jede Flasche darf maximum 100ml** enthalten.
+5. Wenn du durch den Zoll bist, suche auf der elektronischen Anzeige deinen Flug und schaue, auf welches Gate du gehen musst.
+6. Gehe zum Gate und warte, bis du einsteigen kannst ;)
+
+## Nach der Reise | Letzte Phase
+
+- [ ] **Kosten-Monitoring**: empfehlenswert ist es, zu schauen, wie viel Geld deine Reise dich nun gekostet hat und wie viel Budget für zukünftige Ferien übrig bleibt.
+- [ ] **Fotos Ausdrucken**: Drucke die Fotos aus und mache daraus einen eigenen Kalender, den du zu Weihnachten deiner Familie schenken kannst. 
+
