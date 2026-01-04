@@ -73,6 +73,7 @@ ferienplanung--buchung-phase-1
 ziele
 nützliche-tools-zur-beantwortung-der-obigen-kernfragen
 buchung-des-fluges
+gepäck-restriktionen
 buchung-des-hotels
 vorbereitung-gebuchter-ferien-phase-2
 ferien-in-ausland-japanreise-2025

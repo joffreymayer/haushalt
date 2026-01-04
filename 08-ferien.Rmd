@@ -65,6 +65,14 @@ Hier die Kernfragen, die du beim Abschluss dieser Phase beantworten solltest:
 
 Hier wird beschrieben, wie du den Flug buchst.
 
+#### Gepäck-Restriktionen
+
+**Falls du Handgepäck oder einen kleinen Rucksack** mit auf den Flug nimmst, achte auf die vorgebenen **Richtlinien hinsichtlich Grösse des Gepäcks**.
+
+Hier die aktuell (2026) gültigen Richtlinien für Handgepäck:
+
+![Grössen-Einschränkungen bei Handgepäck  und / oder Rucksack](docs/bilder/reisen/handgepaeck-requirements.jpeg)
+
 ### Buchung des Hotels?
 
 Hier wird beschrieben, wie du buchst.
