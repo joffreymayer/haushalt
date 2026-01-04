@@ -101,6 +101,15 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 5. Vorbereitete Eier in Pfanne giessen
 6. Eier braten für ca. 2-3 Minuten, bis es nicht mehr roh isch (nachdem es schon 2 Minzten am kochen ist, kannst du auch die Omellette falten, damit es schneller geht).
 
+### Forellen-Filet gebraten
+
+![Die Forelle mit Broccoli, Kartoffeln und einem Skyr-Dip](docs/bilder/kochen/forelle-und-mit-joghurt-dip.jpeg)
+
+1. Wasche die Forellen-Filets mit Wasser und trockne sie ab.
+  - <u>Tipp</u>: Falls der Fisch stinkt, kannst du ihn *zuerst* **5-10min in Milch** tränken, damit der Geruch verschwindet. Anschliessend musst du das Filet ebenfalls unter Wasser abwaschen.
+2. Öl in eine Pfanne heiss werden lassen.
+3. Auf ca. **Stufe 7 (von 9)** die Forelle **3min pro Seite** in der Pfanne grillieren und schon ist es fertig :D
+
 ## Saucen
 
 ### Salat-Sauce
@@ -129,10 +138,12 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 
 Eignet sich, wenn du - beispielsweise - **weissen Fisch** kochst.
 
-- Zubereitung: Vermische ca. 150–200 g Skyr mit 1–2 gepressten Knoblauchzehen.
-- Abschmecken: Gib einen Spritzer Zitronensaft (oder einen Teelöffel Essig), Salz, Pfeffer und – falls vorhanden – etwas Olivenöl dazu.
-- Tipp: Wenn du Kräuter wie Dill oder Petersilie hast, gebe sie zur Mischung dazu. Das passt klassisch zu weissem Fisch (z.B. Forelle).
-- Servieren: Den kalten Dip einfach neben oder als Klecks auf das heisse Fischfilet geben. 
+![Skyr Joghurt + gepresster Knoblauch Dip](docs/bilder/kochen/joghurt-knoblauch-dip.jpeg)
+
+- Zubereitung: Vermische ca. **150–200 g Skyr** (isländischer, sehr fettarmer Nature-Joghurt) mit **1–2 gepressten Knoblauchzehen**.
+- Abschmecken: Gib einen **Spritzer Zitronensaft** (oder einen Teelöffel Essig), **Salz, Pfeffer** und – falls vorhanden – etwas **Olivenöl** dazu.
+- <u>Tipp</u>: Wenn du Kräuter wie **Dill oder Petersilie** hast, gebe sie zur Mischung dazu. Das passt klassisch zu weissem Fisch (z.B. Forelle).
+- Servieren: Den kalten Dip das heisse Fischfilet platzieren und nur noch geniessen. 
 
 ## Desserts
 
