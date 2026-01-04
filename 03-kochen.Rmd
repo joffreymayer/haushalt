@@ -21,6 +21,8 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
   - <u>Einfachstes Kochbuch</u>: S. 162 
 - Hörnlisalat
   - <u>Tiptopf</u>: S. 238
+- Dip:
+  - Nature-Yoghurt + Knoblauch Dip.
 
 
 ### Nachtessen
@@ -40,7 +42,9 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 - Pain au lait
   <u>Tiptopf</u>: S. 257
 
-## Kürbis-Risotto
+## Haupt-Gang
+
+### Kürbis-Risotto
 
 ![Kürbis-Risotto Endresultat](docs/bilder/kochen/risotto.jpg)
 
@@ -52,7 +56,87 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 5. Rühren und immer mehr wasser reinrühren
 6. 20 min sollte der risotto ready sein :D
 
-## Crêpes
+### Thon-Salat (für 1+ Person)
+
+- Mais & rote Bohnen aus der Büchse abwaschen unter kaltem Wasser.
+- <u>In Salatschüssel beigeben</u>:
+  1. Verhältnis von 55% Essig (Vinaigre de Melfort) und 45% Öl (huile de pepin de raisin). Ich denke, 2 Esslöffel reichen (nach 1 Versuch).
+  2. Würze die Mischung mit Salz & Pfeffer.
+  3. Thon aus der Büchse beigeben.
+  4. Die gewaschenen Mais & rote Bohnen beigeben.
+  5. Mayonnaise grosszügig beigeben (circa 1/3-tel).
+-> alles mischen und tadaaahhh! =)
+
+### Flamme-Kuchen (für 1 Person)
+
+![Flamme-Kuchen Endergebnis](docs/bilder/kochen/flamme-kuchen.jpg)
+
+1. Teig auspacken (Anna's Best --> sind relativ klein, reicht circa für eine Person)
+2. Crème Fraîche hinzufügen
+  - <u>Regel</u>: ein kleiner 250ml Topf, reicht für 3 Flammes
+3. Speckwürfel drüber streuen
+4. Käse - zum Beispiel Gruyère - drüber raffeln
+5. In den circa 240 C° heissen Ofen tun für 6min
+--> Tadaaah! :D
+
+### Steak 🥩:
+
+1. Knoblauch vorbereiten, dh in feine Scheiben schneiden (ca. 3 Gouse d‘ail für 3 Personen)
+2. Steak in Scheiben schneiden, ca. 2 cm breit
+3. Sonnenblumenöl in Pfanne
+
+### Pommes 🍟:
+
+1. Allumer la Friteuse
+2. Mettre les frites dans la friteuse
+3. Mettre à 180 degrès
+4. Mettre à 20 minutes
+
+### Ei-Omelette am Morrgen (1 Person):
+
+1. 2 rohe Eier in eine Schüssel tun
+2. Mit gabel das Eiweiss & Eigelb zusammenrühren
+3. In Pfanne ein wenig Rapsöl giessen
+4. Pfanne aufwärmen, dh warten, bis sie ein wenig warm wird
+5. Vorbereitete Eier in Pfanne giessen
+6. Eier braten für ca. 2-3 Minuten, bis es nicht mehr roh isch (nachdem es schon 2 Minzten am kochen ist, kannst du auch die Omellette falten, damit es schneller geht).
+
+## Saucen
+
+### Salat-Sauce
+
+![Endresultat Salat-Sauce](docs/bilder/kochen/salat-sauce.jpg)
+
+- <u>In Salatschüssel beigeben</u>:
+  1. Olivenöl 
+  2. Vinaigre de Melfore [= Essig] —> gleich viel, wie Olivenöl
+  3. 1 Ess-Löffel Senf
+  4. Salz & Pfeffer
+—> alles mischen und tadahh!
+
+
+### Sauce Tomate (à la Tee) 🍅:
+
+1. 2 Gousse D‘Ail schneiden, nicht zu dünn, sonst wird es verbrannt
+2. Sonnenblumenöl in Pfanne giessen (genug, damit es nicht verbrennt)
+3. Zwiebeln schneiden
+4. Sel & Poivre hinzufügen
+5. Nehme 1 ganze Tube Tomaten-Mark
+6. Wasser beifügen, ca 1/5
+
+
+### Dip mit Nature-Joghurt + Knoblauch
+
+Eignet sich, wenn du - beispielsweise - **weissen Fisch** kochst.
+
+- Zubereitung: Vermische ca. 150–200 g Skyr mit 1–2 gepressten Knoblauchzehen.
+- Abschmecken: Gib einen Spritzer Zitronensaft (oder einen Teelöffel Essig), Salz, Pfeffer und – falls vorhanden – etwas Olivenöl dazu.
+- Tipp: Wenn du Kräuter wie Dill oder Petersilie hast, gebe sie zur Mischung dazu. Das passt klassisch zu weissem Fisch (z.B. Forelle).
+- Servieren: Den kalten Dip einfach neben oder als Klecks auf das heisse Fischfilet geben. 
+
+## Desserts
+
+### Crêpes
 
 - <u>In Mixer Tun</u>:
   1. 100g de Mehl
@@ -65,78 +149,13 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 
 ![Crêpes Original-Rezept für 4 Personen](docs/bilder/kochen/crepes.jpeg)
 
-## Salat-Sauce
-
-![Endresultat Salat-Sauce](docs/bilder/kochen/salat-sauce.jpg)
-
-- <u>In Salatschüssel beigeben</u>:
-  1. Olivenöl 
-  2. Vinaigre de Melfore [= Essig] —> gleich viel, wie Olivenöl
-  3. 1 Ess-Löffel Senf
-  4. Salz & Pfeffer
-—> alles mischen und tadahh!
-
-## Thon-Salat (für 1+ Person)
-
-- Mais & rote Bohnen aus der Büchse abwaschen unter kaltem Wasser.
-- <u>In Salatschüssel beigeben</u>:
-  1. Verhältnis von 55% Essig (Vinaigre de Melfort) und 45% Öl (huile de pepin de raisin). Ich denke, 2 Esslöffel reichen (nach 1 Versuch).
-  2. Würze die Mischung mit Salz & Pfeffer.
-  3. Thon aus der Büchse beigeben.
-  4. Die gewaschenen Mais & rote Bohnen beigeben.
-  5. Mayonnaise grosszügig beigeben (circa 1/3-tel).
--> alles mischen und tadaaahhh! =)
-
-## Flamme-Kuchen (für 1 Person)
-
-![Flamme-Kuchen Endergebnis](docs/bilder/kochen/flamme-kuchen.jpg)
-
-1. Teig auspacken (Anna's Best --> sind relativ klein, reicht circa für eine Person)
-2. Crème Fraîche hinzufügen
-  - <u>Regel</u>: ein kleiner 250ml Topf, reicht für 3 Flammes
-3. Speckwürfel drüber streuen
-4. Käse - zum Beispiel Gruyère - drüber raffeln
-5. In den circa 240 C° heissen Ofen tun für 6min
---> Tadaaah! :D
-
-## Steak 🥩:
-
-1. Knoblauch vorbereiten, dh in feine Scheiben schneiden (ca. 3 Gouse d‘ail für 3 Personen)
-2. Steak in Scheiben schneiden, ca. 2 cm breit
-3. Sonnenblumenöl in Pfanne
-
-## Pommes 🍟:
-
-1. Allumer la Friteuse
-2. Mettre les frites dans la friteuse
-3. Mettre à 180 degrès
-4. Mettre à 20 minutes
-
-## Sauce Tomate (à la Tee) 🍅:
-
-1. 2 Gousse D‘Ail schneiden, nicht zu dünn, sonst wird es verbrannt
-2. Sonnenblumenöl in Pfanne giessen (genug, damit es nicht verbrennt)
-3. Zwiebeln schneiden
-4. Sel & Poivre hinzufügen
-5. Nehme 1 ganze Tube Tomaten-Mark
-6. Wasser beifügen, ca 1/5
-
-## Ei-Omelette am Morrgen (1 Person):
-
-1. 2 rohe Eier in eine Schüssel tun
-2. Mit gabel das Eiweiss & Eigelb zusammenrühren
-3. In Pfanne ein wenig Rapsöl giessen
-4. Pfanne aufwärmen, dh warten, bis sie ein wenig warm wird
-5. Vorbereitete Eier in Pfanne giessen
-6. Eier braten für ca. 2-3 Minuten, bis es nicht mehr roh isch (nachdem es schon 2 Minzten am kochen ist, kannst du auch die Omellette falten, damit es schneller geht)
-
-## Mousse au Chocolat
+### Mousse au Chocolat
 
 Befolge die Anleitung:
 
 ![Betty-Bossi Rezept für Mousse au Chocolat](docs/bilder/kochen/mousse-au-chocolat.jpeg)
 
-## Crème Patissière
+### Crème Patissière
 
 Dies eignet sich beispielsweise, wenn du Erdbeer-Cupcakes machst. Du kannst sie **im Migros oder Coop kaufen**.
 
@@ -148,7 +167,7 @@ Dies eignet sich beispielsweise, wenn du Erdbeer-Cupcakes machst. Du kannst sie 
 3) Mische die Schlagsahne zur Wasser-Puder-Rhum-Mischung dazu et c'est fini!!!
 4) Dann kannst du diese für deine Erdbeer-Cupcakes verwenden.
 
-## Cheese-Cake (à la Vivi & Joff)
+### Cheese-Cake (à la Vivi & Joff)
 
 Wenn du einen einfachen Dessert suchst, der sehr schnell & gut ist, dann ist dieser Cheese-Cake sehr zu empfehlen:
 
@@ -165,5 +184,3 @@ Wenn du einen einfachen Dessert suchst, der sehr schnell & gut ist, dann ist die
 - Mit 170 Grad Kuchen in den Ofen stellen für 40min. 
 - Dann den Ofen abstellen und dabei eine Holz-Kehle verwenden, um die Hitze aus dem warmen Ofen rauszulassen. Den Kuchen noch für **11min** so drin lassen. 
 - Abschlissend den Kuchen rausnehmen und ihn - wenn er abgekühlt hat - in den Kühlschrank tun **für 1 Tag**.
-
-
