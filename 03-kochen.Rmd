@@ -6,10 +6,11 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 
 ### Mittagessen
 
-- Brot + Chicoré + Tomaten 
+- Brot + Chicoré + Tomaten + Oliven
   - <u>Option 1</u>: Käse
   - <u>Option 2</u>: Avocado
   - <u>Option 3</u>: gekochtes Ei
+  - <u>Option 4</u>: Hummus-Dip
 - Spaghetti
 - Fischtäbli + Reis + Tomatensauce
 - Spargeln + Kartoffeln
@@ -41,6 +42,41 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
   - <u>Tiptopf</u>: S. 243
 - Pain au lait
   <u>Tiptopf</u>: S. 257
+
+## Salate
+
+### Chicoré-Salat
+
+**Zutaten**:
+
+- Endiven (Chicoré)
+- Brot
+- Salatsauce
+- Tomaten
+- Oliven
+- <u>Optionen</u>:
+  - <u>Option 1</u>: Hummus-Dip
+  - <u>Option 2</u>: Avocado
+  - <u>Option 3</u>: gekochtes Ei
+  - <u>Option 4</u>: Käse
+- Mozzarella
+- <u>Getränke</u>:
+  - <u>Getränk 1</u>: Wasser
+  - <u>Getränk 2</u>: Tee
+  
+![Chicoré-Salat mit Humus-Dip](docs/bilder/kochen/chicore-salat-oliven-humus.jpeg)
+
+**Zubereitung**:
+
+1. Chicoré zerkleinern auf Schneide-Brett.
+2. Chicoré + Tomaten abwaschen und in Salatschüssel tun.
+3. Oliven ebenfalls in Salat-Schüssel geben.
+4. Salat-Sauce zubereiten (Essig + Öl + Senf + Salz & Pfeffer)
+5. Brot schneiden in Scheiben.
+6. <u>Optional</u>: Brot in Toaster tun.
+7. Servieren
+
+Guten Appétit :D
 
 ## Haupt-Gang
 
