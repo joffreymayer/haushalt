@@ -19,7 +19,7 @@ jobs:
             --body "Auftrag:
             - [ ] Inspiration für's Kochen: https://joffreymayer.github.io/haushalt/kochen.html
             - [ ] Einkaufsliste aktualisieren.
-            - [ ] Einkaufen gehen. \
+            - [ ] Einkaufen gehen." \
             --label "chore" \
             --assignee "joffreymayer,avivikari"
         env:
