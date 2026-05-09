@@ -1,0 +1,26 @@
+name: Weekly Household Chores
+on:
+  schedule:
+    # This runs every Sunday at 6:00 PM (18:00) UTC
+    # Format: minute hour day-of-month month day-of-week
+    - cron: '0 18 * * 0' # Useful site is called "crontab.guru"
+  workflow_dispatch: # Allows you to trigger it manually for testing
+
+jobs:
+  create_chores:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Meal-Prep für diese Woche ausdenken & Einkaufsliste aktualisieren
+        run: |
+          gh issue create \
+            --title "🛒  Meal-Prep für diese Woche ausdenken & Einkaufsliste aktualisieren" \
+            --body "Auftrag:
+            - [ ] Inspiration für's Kochen: https://joffreymayer.github.io/haushalt/kochen.html
+            - [ ] Einkaufsliste aktualisieren.
+            - [ ] Einkaufen gehen. \
+            --label "chore"
+            --assignee "joffreymayer,avivikari"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
