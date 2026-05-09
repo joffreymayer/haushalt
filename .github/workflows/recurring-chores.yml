@@ -12,6 +12,10 @@ jobs:
     permissions:
       issues: write
     steps:
+      # Give the "right" context first to the cloud (it needs to know, it is in "haushalt"):
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
       - name: Meal-Prep für diese Woche ausdenken & Einkaufsliste aktualisieren
         run: |
           gh issue create \
