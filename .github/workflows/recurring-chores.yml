@@ -20,7 +20,7 @@ jobs:
             - [ ] Inspiration für's Kochen: https://joffreymayer.github.io/haushalt/kochen.html
             - [ ] Einkaufsliste aktualisieren.
             - [ ] Einkaufen gehen. \
-            --label "chore"
+            --label "chore" \
             --assignee "joffreymayer,avivikari"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
