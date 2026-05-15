@@ -1,0 +1,7 @@
+# Rente
+
+In diesem Kapitel geht es um das Thema **Rente**: konkret auch um die **3 Säulen in der Schweiz**:
+
+- 1. Säule: Alters- & Hinterlassenenversicherung (**AHV**)
+- 2. Säule: **Berufliche Vorsorge via Einzahlung in Pensionskassen** & arbeitslosen Versicherung (ALV)
+- 3. Säule: **Private Vorsorge** 
