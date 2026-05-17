@@ -43,6 +43,7 @@ Hier eine **empfohlene Reihenfolge**, in der du in Kontakt treten solltest mit d
 - **Wohngemeinde** des Verstorbenen,
   - <u>Output</u>: Koordinations mit Pfarramt der Gemeinde.
 - Grabstätter / Verkäufer von Grabstein / Urne,
+  - <u>Tipp</u>: Falls Leichnam kremiert wird („Feuerbestattung“), kannst du deine Urne kaufen, wenn dir die (kostenlosen) Urnen der Gemeinde nicht gefallen: https://www.urne.ch/products/urne-sfera-bianca-kirschbluetenzweig
   - <u>Output</u>: Urne oder Grabstein für Verstorbener.
 - Krematorium (falls der Verstorbene eine Feuerbestattung wollte)
   - <u>Output</u>: Asche des Verstorbenen in Urne tun.
@@ -76,5 +77,53 @@ Hier eine **empfohlene Reihenfolge**, in der du in Kontakt treten solltest mit d
 
 Hier unsere damaliger Ausganszustand, **<u>nachdem</u> das Bestattungsamt in ZH die Gemeinde Hombi** über den Todesfall von Mam informiert hatte:
 
-![High-Level Roadmap *nachdem* das Bestattungsamt in ZH die Gemeinde kontaktiert hatte](docs/bilder/tod/high-level-roadmap-tod.jpeg)
+![High-Level Roadmap *nachdem* das Bestattungsamt in ZH die Gemeinde in Hombi kontaktiert hatte](docs/bilder/tod/high-level-roadmap-tod.jpeg)
 
+## Erbschaft | Spätere Phase nach dem Tod
+
+Nachdem die Bestattung des Verstorbenen abgeschlossen ist, muss zustätzlich auch die **Erbschaft-Phase** angegangen werden von der Familie. 
+
+### Wer erbt überhaupt?
+
+Das hängt davon ab, wer gestorben ist (Vater, Mutter, Kind, Grossmutter, Onkel, Tante, Gotte, etc...). Das zu beatnworten ist wichtig, weil die sogenannte **Erbfolge** determiniert, wer wie viel Erbt: https://www.ch.ch/de/familie-und-partnerschaft/erbschaft/wer-wie-viel-erbt/
+
+### Wichtigkeit des Testamentes bei der Erbfolge?
+
+- Hat der / die Verstorbene ein Testament (händisch, damit es gültig ist!) verfasst? 
+  - Das Testament ist wichtig, weil der/die Verstorbene(r) damit beeinflussen kann, dass gewisse Kinder / andere Parteien bei der Erbung begünstigt *oder* vernachlässigt werden können. **Kurzgesagt: mit dem Testament lässt sicht die „natürliche Erbfolge" umschreiben**.
+  
+### Wichtigkeit von Ehe- & Erbverträge?
+
+Falls der/die Verstorbene(r) verheiratet war, dann **steht im Ehevertrag drin, ob die Güter bei der Heirat getrennt sind oder alle Güter ab der Heirat beiden Parteien gemeinsam gehören**.
+
+**Ergänzend** zum Ehevertrag kann ein Ehepaar zusätzlich auch ein **Erbvertrag** erstellen, welcher **insbesondere dann wichtig wird, wenn ein Ehepartner _frühzeitig_ verstirbt**. Dieser ermöglicht es nämlich, den überlebenden Partner(in) **mehr** Vermögen zu überlassen, als den Kindern (insbesondere bei einem nicht arbeitenden Partner ist das wichtig, um die Existenz abzusichern).
+
+Entsprechend spielen folgende Fragen eine wichtige Rolle für die gesetzlichen Instanzen. 
+
+- Falls Ehegatte/Ehegattin: Gibt es einen Ehevertrag? Oder war es eine Eingetragene Partnerschaft? Oder doch ein Konkubinat?
+- Falls Ehegatte/Ehegattin: Gibt es einen Erbvertag zwischen den Verheiratenen? 
+
+### Erbverzicht der Kinder
+
+Nehmen wir an, deine Mutter oder dein Vater verstirbt. Dann kannst du - als Kind - auf dein Erbe verzichten via **Erbverzicht**:
+
+![Template eines Erbverzicht-Formulares](docs/bilder/tod/template-erbausschlagung.jpeg)
+
+
+### Gibt es überhaupt einen guten Grund, ein Erbe auszuschlagen?
+
+Ja: **bei hohen Schulden** des Verstorbenen, ist es ratsam, dass Erbe auszuschlagen, denn derjenige, der erbt, müsste in diesem Fall die Schulden zurückzahlen. 
+
+Deshalb wird auch eine Inventarisierung vorgenommen, um überhaupt eine Ahnung zu bekommen, ob der/die Verstorbene(r) Schulden hatte, von denen er nichts erzählt hatte im Laufe seiner Lebenszeit. 
+
+### Aufpassfeld: Erbausschlagung der Kinder zur Begünstigung des überlebenden Elternteils?
+
+Ein anderer Grund, weshalb man ein Erbausschlag macht, könnte sein, **dass die Kunder das überlebende Elternteil beim Erbe begünstigen möchten**, um insbesondere zu verhindern, dass der überlebende Elternteil in finanzielle Schwierigkeiten gerät.
+
+Das scheint jedoch **nicht möglich**, denn - wenn wir als Kinder (= das 1. Parentel) das Erbe ausschlagen - scheint es so zu sein, dass die Nichten erben werden, wie folgender [Auszug aus dem Bezirksgericht Meilen (2026)](https://www.gerichte-zh.ch/de/themen/erbschaft/erbgangssicherung/ausschlagung) zeigt:
+
+![Aufpassfeld: eine Erbausschlagung der Kunder führt dazu, dass die Geschwister des Verstorbenen in der Erbfolge nachrücken und somit das überlebende Elternteil nicht vom Verzicht der Kinder profitieren können.](docs/bilder/tod/aufpassfeld-bei-erbausschlagung.jpeg)
+
+Auch Gemini scheint zu bestätigen, dass - bei einem Erbverzicht der Kinder - anschliessend die Geschwister & deren Kinder als nächstes in der Erbfolge auftauchen und entsprechend vom Erbe profitieren würden:
+
+![Erbverzicht: Beispiel, dass die Wichtigkeit der **Erbfolge** aufzeigt in der Schweiz.](docs/bilder/tod/erbt-nichte-wenn-tochter-das-erbe-verweigert.jpeg)
