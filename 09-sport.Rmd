@@ -8,4 +8,17 @@ Dein Körper gibt es nur ein Mal. Ohne ihn, kannst du kein Geld oder jegliche an
 
 ## Ernährung
 
+Lorem Ipsum...
+
+## Einwärmen via Stretches
+
+- Try these 5 stretches: https://youtu.be/WL6VSc5XQ-8?is=VMIyEQ2E1v9Ld3QV
+
+## Work-Outs
+
+### Core Workout (Beginner)
+
+Hier das bi-weekly Core-Workout zum Start:
+
+![Core-Workout für Beginner (2x pro Woche).](docs/bilder/sport/core-workout-beginner.jpeg)
 

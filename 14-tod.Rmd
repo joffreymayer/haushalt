@@ -83,7 +83,7 @@ Hier unsere damaliger Ausganszustand, **<u>nachdem</u> das Bestattungsamt in ZH 
 
 Nachdem die Bestattung des Verstorbenen abgeschlossen ist, muss zustätzlich auch die **Erbschaft-Phase** angegangen werden von der Familie. 
 
-### Wer erbt überhaupt?
+### Wer erbt überhaupt? | Erbfolge
 
 Das hängt davon ab, wer gestorben ist (Vater, Mutter, Kind, Grossmutter, Onkel, Tante, Gotte, etc...). Das zu beatnworten ist wichtig, weil die sogenannte **Erbfolge** determiniert, wer wie viel Erbt: https://www.ch.ch/de/familie-und-partnerschaft/erbschaft/wer-wie-viel-erbt/
 
@@ -100,25 +100,33 @@ Falls der/die Verstorbene(r) verheiratet war, dann **steht im Ehevertrag drin, o
 
 Entsprechend spielen folgende Fragen eine wichtige Rolle für die gesetzlichen Instanzen. 
 
-- Falls Ehegatte/Ehegattin: Gibt es einen Ehevertrag? Oder war es eine Eingetragene Partnerschaft? Oder doch ein Konkubinat?
-- Falls Ehegatte/Ehegattin: Gibt es einen Erbvertag zwischen den Verheiratenen? 
+- <u>Falls Ehegatte/Ehegattin</u>: *Gibt es einen Ehevertrag? Oder war es eine Eingetragene Partnerschaft? Oder doch ein Konkubinat?*
+- <u>Falls Ehegatte/Ehegattin</u>: *Gibt es einen Erbvertag zwischen den Verheiratenen?*
+
+### Wer erbt wie viel? | Pflichtteile & verfügbare Erbquoten
+
+In der Schweiz gibt es sogenannte **Pflichtteile**, die bestimmen, wie viel Personen *minimal* erben. **Ergänzend** zum Pflichtteil, gibt es die **verfügbare Quote**, die der Verstorbene frei verteilen kann an diejenigen Personen, die er zu beerben wünscht.
+
+***Wichtig zu verstehen hier ist, dass du damit - als zukünftig Versterbende Person - steuern kannst, welche Personen in deiner Familie welchen Anteil an deinem Vermögen erben sollen. Der Pflichtteil verhindert jedoch, dass du dein ganzes Vermögen an eine einzige Person vererben kannst (wenn du z.B. mehrere Kinder hast)***.
+
+- <u>Hier die Theorie anhand von Beispielen vom Zürcher Bezirksgericht</u>: https://www.gerichte-zh.ch/de/themen/erbschaft/nachlassplanung/testament-und-erbvertrag/pflichtteil  
 
 ### Erbverzicht der Kinder
 
-Nehmen wir an, deine Mutter oder dein Vater verstirbt. Dann kannst du - als Kind - auf dein Erbe verzichten via **Erbverzicht**:
+Nehmen wir an, deine Mutter oder dein Vater verstirbt. Dann kannst du - als Kind - auf dein Erbe verzichten via **Erbverzicht**: https://www.gerichte-zh.ch/de/themen/erbschaft/nachlassplanung/testament-und-erbvertrag/pflichtteil
 
 ![Template eines Erbverzicht-Formulares](docs/bilder/tod/template-erbausschlagung.jpeg)
 
 
-### Gibt es überhaupt einen guten Grund, ein Erbe auszuschlagen?
+### Gibt es überhaupt einen guten Grund, ein Erbe auszuschlagen? | Aufpassfeld Schulden
 
-Ja: **bei hohen Schulden** des Verstorbenen, ist es ratsam, dass Erbe auszuschlagen, denn derjenige, der erbt, müsste in diesem Fall die Schulden zurückzahlen. 
+Ja: **bei hohen Schulden _des Verstorbenen_**, ist es ratsam, dass Erbe auszuschlagen, denn **derjenige, der erbt, _müsste_ in diesem Fall die Schulden zurückzahlen**. 
 
 Deshalb wird auch eine Inventarisierung vorgenommen, um überhaupt eine Ahnung zu bekommen, ob der/die Verstorbene(r) Schulden hatte, von denen er nichts erzählt hatte im Laufe seiner Lebenszeit. 
 
-### Aufpassfeld: Erbausschlagung der Kinder zur Begünstigung des überlebenden Elternteils?
+### Weiteres Aufpassfeld: Erbausschlagung der Kinder zur Begünstigung des überlebenden Elternteils?
 
-Ein anderer Grund, weshalb man ein Erbausschlag macht, könnte sein, **dass die Kunder das überlebende Elternteil beim Erbe begünstigen möchten**, um insbesondere zu verhindern, dass der überlebende Elternteil in finanzielle Schwierigkeiten gerät.
+Ein anderer Grund, weshalb man ein Erbausschlag macht, könnte sein, **dass die Kinder das überlebende Elternteil beim Erbe begünstigen möchten**, um insbesondere zu verhindern, dass der überlebende Elternteil in finanzielle Schwierigkeiten gerät.
 
 Das scheint jedoch **nicht möglich**, denn - wenn wir als Kinder (= das 1. Parentel) das Erbe ausschlagen - scheint es so zu sein, dass die Nichten erben werden, wie folgender [Auszug aus dem Bezirksgericht Meilen (2026)](https://www.gerichte-zh.ch/de/themen/erbschaft/erbgangssicherung/ausschlagung) zeigt:
 
@@ -127,3 +135,4 @@ Das scheint jedoch **nicht möglich**, denn - wenn wir als Kinder (= das 1. Pare
 Auch Gemini scheint zu bestätigen, dass - bei einem Erbverzicht der Kinder - anschliessend die Geschwister & deren Kinder als nächstes in der Erbfolge auftauchen und entsprechend vom Erbe profitieren würden:
 
 ![Erbverzicht: Beispiel, dass die Wichtigkeit der **Erbfolge** aufzeigt in der Schweiz.](docs/bilder/tod/erbt-nichte-wenn-tochter-das-erbe-verweigert.jpeg)
+

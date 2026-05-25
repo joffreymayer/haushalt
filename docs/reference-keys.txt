@@ -92,6 +92,9 @@ ankuft-beim-flughafen-am-ablugs-tag
 nach-der-reise-letzte-phase
 sport
 ernährung
+einwärmen-via-stretches
+work-outs
+core-workout-beginner
 investments
 haushalt--budgetsplanung
 die-geld-architektur
@@ -110,9 +113,10 @@ todesfall-die-offizielle-genaue-wegleitung-im-detail-inkl.-zeitlicher-verlauf
 welche-behörden-instanzen-werden-bei-todesfällen-aktiv-die-staatliche-todes-architektur
 high-level-roadmap-hinsichtlich-behörden-bei-tod
 erbschaft-spätere-phase-nach-dem-tod
-wer-erbt-überhaupt
+wer-erbt-überhaupt-erbfolge
 wichtigkeit-des-testamentes-bei-der-erbfolge
 wichtigkeit-von-ehe--erbverträge
+wer-erbt-wie-viel-pflichtteile-verfügbare-erbquoten
 erbverzicht-der-kinder
-gibt-es-überhaupt-einen-guten-grund-ein-erbe-auszuschlagen
-aufpassfeld-erbausschlagung-der-kinder-zur-begünstigung-des-überlebenden-elternteils
+gibt-es-überhaupt-einen-guten-grund-ein-erbe-auszuschlagen-aufpassfeld-schulden
+weiteres-aufpassfeld-erbausschlagung-der-kinder-zur-begünstigung-des-überlebenden-elternteils
