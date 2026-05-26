@@ -248,16 +248,7 @@ Folgende Unternehmen musst du kontaktieren, um deine neue Adresse zu registriere
 Hier eine Übersicht der To-Do's:
 
 - [ ] Grundriss der leeren Wohnung abmessen, um die richtigen Möbel zu finden (falls du noch zu wenig / nicht richtige Ausstattung hast)
-- [ ] Mach mehrere Ausflüge - im Verlauf der ersten Wochen -  und gehe dabei in folgende spezialisierte Wohn-Geschäfter, um dir dein Wohnkonzept für Küche, Bad, Schlafzimmer, Wohnzimmer, Keller und Balkon einzukaufen:
-  - IKEA (Dietlikon),
-  - Pfister (Dietlikon),
-  - Livique (Dietlikon),
-  - Maison du Monde (Dietlikon),
-  - Jumbo (Dietlikon oder Hinwil)
-  - Jysk (Hinwil).
-- [ ] Entscheide, welche Möbel du nun willst.
-- [ ] Lieferung der Möbel zu Hause.
-- [ ] Montage der Möbel zu Hause.
+- [ ] Anschliessend kannst du das folgende Vorgehen [in diesem Issue](https://github.com/joffreymayer/haushalt/issues/38) übernehmen.
 
 ***Wichtig zu verstehen ist, dass - falls du noch gar keine Möbel hast (oder nur sehr wenige) - der Prozess hier sehr lange sein kann und sich <u>über mehrere Monate (gar Jahre)</u> ausstrecken kann.***
 
@@ -336,6 +327,7 @@ Hier die Liste, das zur Pflage der Haushaltsgeräte dazu gehört:
 - **Bad**:
   - **Abfluss**: Haare und sonstige Überreste aus Abfluss entfernen.
   - **WC**: entkalken, falls nötig.
+    - <u>Falls **verstopft**, befolge diese (Youtube-Short) Anleitung hier</u>: https://youtube.com/shorts/G7B0Ytq7iwk?is=rv7L3irQ7N9ezPXI
 - **Waschküche**:
   - Wasch-Zelle entstauben.
   - Waschmaschine:
