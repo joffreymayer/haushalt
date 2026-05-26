@@ -3,3 +3,4 @@
 .Rproj.user
 *.Rproj
 /docs/data/_builds
+.prompts

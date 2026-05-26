@@ -3,3 +3,29 @@
 In diesem Kapitel geht es um **gesundheitliche Versicherungen via den Krankenkassen** in der Schweiz.
 
 *Zu beachten, dass Krankenkassen <u>nicht</u> dasselbe sind, wie AHV oder Pensionskassen: hierbei geht es unm das **Thema Rente** und zu diesem Thema erfährst du im nächsten Kapitel mehr.* 
+
+## Grundversicherung
+
+- Unabhängig davon, für welche Grundversicherung von einem der Krankenkassen-Anbieter du dich entscheidest: die Grundversicherungen haben - vom Schweizer Gesetz her - **alle** den **gleichen** Leistungsumfang. Das Einzige, was sich unterscheidet, ist der **Preis**. 
+- <u>Wichtiges hinsichtlich **Kündigungsprozess für Grundversicherungen**</u>: du kannst *jährlich* **bis Ende November** kündigen, um deine Grundversicherung zu wechseln (hatte ich gemacht per Ende 2025).
+- Für die jährliche Suche nach der "preisgünstigsten" Grundversicherung, empfiehlt sich die Webseite des Bundes: https://www.priminfo.admin.ch/de/praemien
+
+## Zusatzversicherungen
+
+- Zusatzversicherungen haben ein Onboarding Prozess, wo sie dich als Kunde "bewilligen" müssen. Wenn du Krebs hast, dann wirst du - gemäss Berater - **keine Chance** haben, den Bewilligungsprozess zu bestehen.
+- **Bestehende** Zusatzversicherungen von dir müssen gekündigt werden: diese besitzen eine **3 Monate Kündigungsfrist** (bevor du dich vom Vertrag lösen kannst), entsprechend musst du **bis Ende September** jeweils eine Zusatzversicherung kündigen.
+- Das Abschliessen von ***neuen*** Zusatzversicherungen ist grundsätzlich immer möglich. Hier ist zu bemerken, dass du **das gesamte Angebot _aller_ Krankenkassen** verwenden solltest, denn nur so lässt sich die **optimale Zusatz-Versicherungskombination** eruieren.
+- Es gibt (premium) Zusatzversicherungen, die dir ermöglichen, zeitnahere Termine mit Ärzten zu finden. Zum Beispiel sehen Krankenkassen - aus bürokratischer Sicht - einen Krebs mit derselben Dringlichkeit an, wie eine Prothesenoperation, wenn du in den "lower tiers" unterwegs bist (Wartezeiten von 2 oder 3 Monaten sind hier üblich vor OPs).
+
+## Faustregeln beim Thema Krankenversicherung
+
+- Versuche **immer gesund zu leben und deinen Körper so fit wie möglich zu halten**: vergiss nicht [das Zitat von Jean Cianti in 1994](https://joffreymayer.github.io/haushalt/sport.html).
+
+## Daten-Basierte Methoden mit Anwendung im realen Leben?
+
+- Coole Idee: das ist ein typischer **Use-Case für AI-Agents**, den du hier (lokal) anwenden könntest. Crawle das Web mit allen Versicherungsanbieter und ihren Zusatz-Versicherungsangeboten (inkl. deren Preis). Gib dein Status-Quo an Zusatzversicherungen an das LLM mit und optimiere nach höchsten Leistungen für günstigster Preis. Schaue was rauskommt...
+
+## Weiterführende Links / Ressourcen?
+
+- Bundesseite für Prämienvergleich: https://www.priminfo.admin.ch/de/praemien
+- Meine Issues: https://github.com/joffreymayer/haushalt/issues/22

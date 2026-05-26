@@ -105,6 +105,11 @@ deine-investment-ziele
 methodik
 mobilität
 krankenkasse
+grundversicherung
+zusatzversicherungen
+faustregeln-beim-thema-krankenversicherung
+daten-basierte-methoden-mit-anwendung-im-realen-leben
+weiterführende-links-ressourcen
 rente
 letzte-lebensphase-tod
 welche-zwei-arten-von-tod-gibt-es
