@@ -93,6 +93,9 @@ vorbereitung-zum-flug-phase-3
 checkin
 ankuft-beim-flughafen-am-ablugs-tag
 nach-der-reise-letzte-phase
+spezialsituationen
+reisen-in-kriegszeiten
+abgeleitete-heuristiken
 sport
 ernährung
 einwärmen-via-stretches

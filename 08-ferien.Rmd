@@ -174,3 +174,30 @@ Hier der Ablauf:
 - [ ] **Kosten-Monitoring**: empfehlenswert ist es, zu schauen, wie viel Geld deine Reise dich nun gekostet hat und wie viel Budget für zukünftige Ferien übrig bleibt.
 - [ ] **Fotos Ausdrucken**: Drucke die Fotos aus und mache daraus einen eigenen Kalender, den du zu Weihnachten deiner Familie schenken kannst. 
 
+## Spezialsituationen
+
+### Reisen in Kriegszeiten
+
+[Hier ein Artikel vom SRF (2026)](https://www.srf.ch/sendungen/kassensturz-espresso/espresso/iran-krieg-reiserechtsexperte-zum-krieg-handeln-sie-nicht-ueberstuerzt), der die Risiken & Hintergründe darlegt, damit du eine vernünftige Entscheidung fällen kannst:
+
+- Kriegerische Ereignisse werden von Reiseversicherungen häufig **ausgeschlossen**.
+- Welches Recht wird angewandt?
+   - Airlines und Reiseveranstalter unterliegen der **Fluggastrechtsverordnung**. Diese verlangt, dass Fluggesellschaften zum Beispiel **bei Weiterreise- oder Übernachtungsmöglichkeiten _unterstützen_**.
+      - <ins>Vorsicht</ins>: Die Fluggastrechtsverordnung gilt nur für **europäische** Fluggesellschaften. Entsprechend trägt der Reisende einen Teil des "Ferien in Kriegszeiten"-Risiko, insbesondere, wenn du mit "nicht EU"-Fluggesellschaften fliegst.
+- Welche "Ferien im Krieg"-Szenarien gibt es?
+   - <ins>Kurzfristig</ins>:
+      - ***Was passiert, wenn - bei (plötzlichem) Kriegsausbruch - meine Reise kurzfristig annuliert wird und ich - theoretisch - meine Reise noch vor mich habe?***
+         - Grundsätzlich hast du **Anspruch auf Geld zurück oder Anspruch auf einen Ersatzflug** – also auf eine andere Art ans Ziel zu fliegen. Das **Gleiche gilt auch für Pauschalreisen**: Wenn dort der Veranstalter die Reise annulliert, weil im Moment gar nicht geflogen werden kann, habe ich dort auch Anspruch, dass ich Geld zurückbekomme.
+         - <ins>Falls ich 2 Wochen davor selber storniere</ins>: du trägst das Risiko und musst **allfällige Annullationskosten zahlen**.
+      - ***Wer hilft, wenn du aufgrund eines plötzlichen Krieges im Ausland feststeckst?***
+         - <ins>Wenn du **direkt bei der Fluggesellschaft gebucht** hast</ins>: warte auf die entsprechenden Informationen. Die Fluggesellschaft ist verantwortlich dafür, dass sie dich beim Weiterflug und Übernachtungen unterstützt.
+         - <ins>Wenn du hingegen **via einer Reiseveranstaltung gebucht** hast</ins>: wenn du mit einer Pauschalreise unterwegs bin, hast du den Vorteil, dass die Veranstalter gemäss Gesetz dazu verpflichtet sind, dir zu helfen.
+   - <ins>Langfristig</ins>:
+      - <ins>Der Krieg ist im Gange und ich buche eine Reise, die über das Kriegsgebiet geht</ins>: **Hier trägst du das Risiko selbst (und <ins>nicht </ins> die Airline / der Reiseveranstalter)**, weil ja bekannt ist, dass dieser Krieg ausgebrochen ist. 
+      
+### Abgeleitete Heuristiken
+
+- Wenn du Reisen planst, die über / in der Nähe von Kriegsgebieten verläuft, ist von **Ferien im Zielland abzuraten und das Ende des Krieges abzuwarten**, insbesondere auch, weil...:
+  - Die Reiseversicherungen Kriege <u>nicht</u> versichert.
+  - Das Risiko, dass dein Flugzeug von einer Rakate abgeknallt wird, nicht 0% beträgt. 
+  - etc...
