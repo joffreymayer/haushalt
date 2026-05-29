@@ -31,9 +31,12 @@ mousse-au-chocolat
 crème-patissière
 cheese-cake-à-la-vivi-joff
 allgemeine-administration
+betrieb-des-haushaltes
 post
 adresse-des-empfängers
 adresse-des-absender
+finanzplanung
+vermögenszentrum
 elektronische-geräte
 drucker-setup
 für-windows
