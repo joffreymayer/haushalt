@@ -39,6 +39,23 @@ Diese solltest du auf Rückseite eines Briefumschlags erfassen.
 
 ```Schreibe alles auf eine Linie, beginnend mit deinem Vorname, Name, Strasse und dann PLZ inkl. Ortschafts-Name!```
 
+## Familienplanung
+
+### Wie viel "kostet" eine 5-köpfige Familie in der Schweiz? | Eine monetäre Abschätzung
+
+Hier ein Beispiel, wohin dein Geld abfliesst, **wenn du 3 (kleine) Kinder in der CH aufziehst mit 100% Arbeiten als Vater und Teilzeitarbeit als Mutter (beide ca. 35-jährig), pro Jahr**: 
+
+![Alle Kostenblöcke *pro Jahr* einer 5-köpfigen Schweizer Familie am relativen Anfang ihres Familien-Lebenszykluses](docs/bilder/allgemeine-administration/budget-aufteilung-einer-5-koepfigen-familie.jpeg)
+
+Wie du siehst, sind die grossen Kostenblöcke:
+
+- Miete,
+- Krankenkasse,
+- Essen,
+- Kita,
+- Mobilität (Auto hier),
+- Steuern.
+
 ## Finanzplanung
 
 ### Vermögenszentrum

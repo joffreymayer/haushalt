@@ -35,6 +35,8 @@ betrieb-des-haushaltes
 post
 adresse-des-empfängers
 adresse-des-absender
+familienplanung
+wie-viel-kostet-eine-5-köpfige-familie-in-der-schweiz-eine-monetäre-abschätzung
 finanzplanung
 vermögenszentrum
 elektronische-geräte
