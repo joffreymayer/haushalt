@@ -81,3 +81,11 @@ Et c’est ici que la seconde commoditisation devient stratégique. Si la majori
 Die obige Analyse & Schlussfolgerungen wurden auch - 3 Monate später (Mai 2026) - bekräftigt: es gibt Forscher, die gezeigt haben, dass 'local LLMs are capable of matching 80% of the outputs of the "State-of-the-art" models like Opus or ChatGPT. The biggest advantage is that these local models run on one 2000$ Macbook, where you are not limited by Tokens or API Rate-Limits. Furthermore, these models are "datenschutz" friendly, because you send no code, API-keys or other safety-sensitive stuff to the cloud of a big-data company'.
 
 - Quelle & Methodology can be found in the video of Awesome Coding (2026): https://youtu.be/caJUD2c3QRQ?is=Yvm_YS3jC3RK2vs9
+
+## Investing mit Warren Buffet
+
+Der Amerikaner Warren Buffet ist DER grösste Investor der letzten 100 Jahre und war in der Mitte der 2000er Jahre der reichste Mann der Welt. Sein Reichtum kam aus seinen konsistenten Investments via seiner Firma Berkshire Hathaway. 
+
+- Wenn du auf der Suche nach neuen Investment bist, kannst du die folgende Datenbank verwenden, um deine Investments zu planen: https://faq.library.upenn.edu/business/faq/45586
+
+In der obigen Datenbank gibt es bis zu **20'000 Einträge zu Firmen**. Warren hat ist diese Datenbank mehrfach in seinem Leben - Linie für Linie - durchgegangen, um Firmen zu identifizieren, die hohes Investment-Potential hatten und - aus seiner Sicht - unterbewertet waren. **Studiere die Datenbank und dein Return sollte positiv ausfallen.**
