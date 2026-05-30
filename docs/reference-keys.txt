@@ -88,6 +88,7 @@ vorbereitung
 skiferien-checkliste
 kleider-ausrüstung
 necessaire
+sommerferien-checkliste
 ferien-procelette-chez-les-mamies
 vorbereitung-zum-flug-phase-3
 checkin
@@ -96,6 +97,9 @@ nach-der-reise-letzte-phase
 spezialsituationen
 reisen-in-kriegszeiten
 abgeleitete-heuristiken
+analyse-vergangener-ferien
+learnings
+kurz-weekend-gardasee-reise-mai-2026
 sport
 ernährung
 einwärmen-via-stretches

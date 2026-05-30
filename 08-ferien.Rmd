@@ -23,6 +23,16 @@ Hier die Kernfragen, die du beim Abschluss dieser Phase beantworten solltest:
   - [ ] **Zwischen-Etappen**: planst du, deine Ferien nur an einem Ort zu verbringen oder an Mehreren?
   - [ ] **Bargeld & Revolut**: wie viel Geld willst du "Bar" mitnehmen und wie viel auf deine Revolut-Karte?
     - <u>Bemerkung</u>: *Hängt auch davon ab, ob in einem Land bargeldloses Zahlen "normal" ist oder nicht.*
+- [ ] **Auto**:
+  - [ ] **Geld & vergangene Erfahrung**: gibt es Kalender-Tage, an denen die Auto-Anreise besonders / teuer ist (z.B. zeitlich keine Staus bzw. "low-season" weil keine Ferien)?
+  - [ ] **Abfahrtszeit festlegen**: Fahre - wenn möglich - *immer* in der Nacht ab (ca. 19:00), denn die Strassen sind viel zu voll (wir haben im Mai 2026 während des Pfingswochenende 4h statt 2.5h gebraucht von der Schweizer Grenze bis zum Hotel in Lazise am Gardasee). Pass auf, dass das Hotel 24h Betrieb hat für das Checkin.
+  - [ ] **Falls du in den Süden fährst**:
+    - <u>Monitoring Gotthard (inkl. Sondersperrungen)</u>: https://www.tcs.ch/de/tools/verkehrsinfo-verkehrslage/gotthard-tunnel.php#anchor_Staukalender
+      - <ins>**Learning aus Gotthard-Staus am Pfingst-Wochenende im Mai 2026**</ins>: wenn du in den Süden fahren willst in "Ferienhochsaison" (oder verlängerten Weekends wie z.B. Pfingsten) - dann ist **schon ab 05:00 Uhr Morgens 10km Stau** (und wächst dann auf 20km bis in den Nachmittag): https://www.srf.ch/news/schweiz/verkehr-am-pfingstwochenende-gotthard-stau-waechst-auf-rund-20-kilometer-an
+  - [ ] **Entscheid**: welchen konkrete Auto-Route nimmst du (inkl. Rücksicht auf andere Personen)?
+  - [ ] **Zwischen-Etappen einplanen bei längeren Reisen**: Gibt es Zwischen-Etappen, bei denen du eine Pause einlegen kannst und sehenswert sind?
+  - [ ] **Tanken & Pneu-Prüfung am Vortag der Hinfahrt**: Mindestens den Tank vollständig auffüllen und den Reifendruck prüfen (ideal sind ca. 2.1 bis 2.3 Bar pro Pneu). 
+    - <u>Aktuell unklar</u>: Ab wann lohnt sich eine Auto-Vermietung?
 - [ ] **Flug**:
   - [ ] **Geld & vergangene Erfahrung**: gibt es Kalender-Tage, an denen der Flug besonders günstig / teuer ist?
   - [ ] **Entscheid**: welchen konkreten Flug nimmst du (inkl. Rücksicht auf andere Personen)?
@@ -36,6 +46,8 @@ Hier die Kernfragen, die du beim Abschluss dieser Phase beantworten solltest:
       - *Bei **mehreren** Etappen, musst du auch mehrere Hotels wählen und die jeweiligen Transportfragen (Modus: öV / Taxi / Auto), sowie Abfahrts- & Ankunftszeiten planen.
       - Hotels immer **relativ zum City-Center** betrachten. Wenn du nur sehr kurze Zeit Ferien machst und dein Hotel weit Abseits vom City-Center liegt, ist es empfehlenswert, dein **Gepäck in einem Schrankfach** - beispielsweise an einem Bahnhof oder bei der Gemeinde - zu lassen, um keine Zeit (mehrere Stunden) zu verlieren und zum Hotel zu fahren, nur um das Gepäck abzulegen.
   - [ ] **Hotelklasse & vergangene Erfahrung**: welche Qualität soll das Hotel haben (z.B. Kosten pro Nacht, Bewertungen anderer Gäste, Anzahl Sterne, Pool / kein Pool, Gym / kein Gym, etc...) 
+  - [ ] **Checkin 24/7 möglich?**: Diese Frage ist besonders relevant, wenn du die **Anreise mit dem Auto** planst 
+  - [ ] Frühstück inklusive buchen: so hast du kein Stress am Morgen.
   - [ ] **Entscheid**: Welche(s) Hotel(s) wählst du?
   - [ ] **Checkout**: ab wann *spätestens* muss du aus dem Zimmer raus sein am Abfahrtstag?
 - [ ] **Ferien-Aktivitäten**:
@@ -53,6 +65,9 @@ Hier die Kernfragen, die du beim Abschluss dieser Phase beantworten solltest:
   - [Google Maps](https://www.google.com/maps) für Fahrpläne, Adressen, Flüge, Hotels oder Restaurants.
   - [Instagram-App](https://www.instagram.com/) für trendige Ferien-Desitationen, Restaurants oder Hotels.
   - [Polarstep-App](https://www.polarsteps.com/de/) für das eigene Tracking deiner Reise (inkl. Fotos).
+  - [Youtube](https://www.youtube.com) für die **Attraktionen-Planung**.
+    - <u>Tipp</u>: ich empfehle dir Youtube-Videos mit Titeln, wie zum Beispiel "Top 10 <Deine_Feriendestination>". Dann kannst du dir diese in die Google Maps abspeichern. Für Zwischenstopps für Unterwegs, kannst du auch Chatbots brauchen: das hat mir ein gutes Restaurant in Ascona empfohlen.
+- Frühstück im Hotel war super: so gabs kein Stress.   
 - Flug:
   - [Ebookers.ch](https://www.ebookers.ch/en/Flights)
   - Internet-Seite & App der Fluggesellschaft, mit der du fliegen wirst (für Checkin wichtig).
@@ -101,6 +116,7 @@ Du machst eine Reise ins Ausland? Hier erhälst du alle Tipps & Tricks, um dich 
   - [SOS144](https://www.sos144.ch/de), das die Rega inkludiert.
 - [ ] **Leere Wohnung: Home-Sitter**  für deine leere Wohnung suchen.
 - [ ] **Für Handy & co.: Ladegerät-Typ** prüfen (für genügend Akku).
+- [ ] **Parkplatz reservieren 1 Tag vor Abfahrt mit Auto**: Hier die App (der TCS wirkt da mit, ist also "legit"): https://parcandi.com/ch-de/facility/71/59c40ed4-0063-f75d-36e6-6cca6362922b
 - [ ] **Flug: Check-In 24h** vor Abflug (via App der Fluggesellschaft möglich).
 - [ ] **Nützliche Reise-Apps herunterladen**, welche beim Reisen nützlich sind, hier einige Beispiele (Stand: 2025):
 
@@ -139,6 +155,21 @@ Ich empfehle dir, folgende Dinge mitzunehmen & abzuklären:
 - [ ] Lippenbalsam / Labello
 - [ ] Necessaire (Zahnpasta, Zahnbürste, Shampoo, Anti-Allergikum und Rasierer)
 - [ ] Ohrenstäbchen
+
+### Sommerferien: Checkliste
+
+- [ ] Sonnnencrème (50er),
+- [ ] Sonnenbrille
+- [ ] Nastüechli für Heuschnupfen
+- [ ] 2x Badehosen
+- [ ] 2x kurze Hosen
+- [ ] T-Shirts
+- [ ] "normale" Hosen
+- [ ] "normale" Socken
+- [ ] Unterhosen
+- [ ] ID
+- [ ] Euros 
+- [ ] Tanken (Hin- & Rückfahrt)
 
 ### Ferien: Procelette chez les Mamies
 
@@ -201,3 +232,38 @@ Hier der Ablauf:
   - Die Reiseversicherungen Kriege <u>nicht</u> versichert.
   - Das Risiko, dass dein Flugzeug von einer Rakate abgeknallt wird, nicht 0% beträgt. 
   - etc...
+  
+## Analyse vergangener Ferien
+
+### Learnings
+
+- <ins>Allgemeine Organisation</ins>:
+   - <ins>Online Zahlungen für lokale Attraktionen</ins>: Attraktionen mit Tickets passieren zunehmends online. Erstell dir einmalige Emailadresse mit Weiterleitung auf deine Hauptemail (Vivi macht das auch so).
+   - <ins>Bargeld</ins>: Nimm - bei *jeder* deiner Reisen - ein wenig Bargeld mit. Das kann praktisch sein für die Zahlung von Parkplätzen (es gibt viele Parkplätze, die z.B. keine Kartenzahlung erlauben.) oder für das Bezahlen in kleinen Souvenir-Läden (z.B. gibt es Läden, die keine Kreditkartenzahlungen ermöglichen).
+- <u>Hotel</u>:
+  - Frühstück inklusive ist immer super: kein Stress am Morgen. 
+    - <u>Bemerkung</u>: die Qualität des Frühstücks ist eine Wildcard...
+- <u>Essen</u>:
+     - Um gute Restaurants zu finden, **frage am besten das Hotelpersonal**: wir haben sehr gute Restaurants empfohlen bekommen.
+     - Restaurant-Plätze **ohne Reservation** erhälst du (zu zweit) gut am 18:00 oder später ab ca. 20:30. Bei grösseren Gruppen *immer* Reservieren.
+- <ins>Für Kurzreisen mit Auto(< 7 Tage)</ins>: Autofahrten **max. 3.5h** (ohne Stau). 
+  - Geographisch gesehen, macht es Sinn, eher am Bodensee, Genfersee oder Vierwaldstättersee Urlaub zu planen, denn der Gardasee ist zu weit weg für Kurzferien (5.5h 'it Auto).
+  - Plane ein Zwischenstopp ein, falls du während des Tages in die Ferien reist und du weit weg fährst (so erholst du dich besser).
+  - Wenn du Tanken musst: Im Ausland steht für Benzin - aktuell (2026) - oft die "E5" (oder E4?) Bezeichnung (und zusätzlich sollte dann auch "Sans Plomb" bzw. "Senza Piombo" stehen).
+
+### Kurz-Weekend: Gardasee-Reise (Mai 2026)
+
+ - Preislich war das Hotel teuer: 640.- für 3 Tage (ungefähr war 106.- pro Nacht, pro Person). Wir konnten jedoch - wegen den eingeplanten Attraktion - den Pool kaum geniessen. Zudem waren alle Leute beim Pool sich am beobachten, was es nicht angenehm machte, denn man fühlte sich ein wenig beobachtet. Nächstes mal nimmst du lieber ein günstigeres Hotel an der Nähe des Wassers und gehst dort baden. Mache dafür jedoch Wellness Weekends, wenn du ein Pool geniessen möchtest.
+ - <ins>IST-Ferienbudget (ex post)</ins>:
+    - Hotel: 630
+    - Restaurants (Mittags + Abends): 60 + 74.30 + 87 + 90 + 28 + 40 + 20 + 16.10 + 13.5 = 428.90
+    - Ausflug-Aktivitäten: 26
+    - Tanken (850km): 45 + 50 + 21.65 = 116.65
+    - Mautstellen (850km): 12 + 13.8 + 2.5 + 6.5 + 2.5 = 37.3
+    - Parkplätze (Ausflüge): 18 + 12 + 8.5 = 38.5
+    - Verpflegung für Unterwegs (z.B. Wasser oder Snacks): 4 + 18 = 22
+    - Souvenirs: 26.85
+    - **Total _ohne_ Hotel**: 695.15
+    - **Total (inkl. Hotel)**: **1'310**
+- Im Sommer empfiehlt sich, einen Isolations-Schutz für die Frontscheibe im Auto zu platzieren.
+- Nimm ein wenig Bargeld mit, das kann praktisch sein für Parkplätze, die z.B. keine Kartenzahlung erlauben.
