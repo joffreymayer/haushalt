@@ -25,20 +25,20 @@ Hier die Übersicht, wie du **dein Leben mit einer (simplen) "Investment-Strateg
 ![Simpler Finanzplan für die Investition deines Geldes](docs/bilder/investment/plan/simpler-investment-plan.png)
 
 
-## Grobe Faustregeln, die es *immer* zu respektieren gilt?
+### Grobe Faustregeln, die es *immer* zu respektieren gilt?
 
 - Investieren *niemals* dein ganzes *Vermögen* in rein spekulative Anlagen (z.B. "Bitcoin" in den 2020er Jahren).
 - **Vermeide es, den "richtigen" Zeitpunkt für Investitionen abzuwarten**. Es ist besser, sowohl auf das „gute Ergebnis“ als auch auf das „schlechte Ergebnis“ (e.g. the counterfactual) zu setzen und das Portfolio im Laufe der Zeit anzupassen.
   - <u>Konkret</u>: Versuche *immer*, **deine Investments zu diversifizieren**, also z.B. 60% deines Investment-Vermögens in Rohstoffe, 30% in Aktien und 10% in Bonds. Es gibt einen Grund, weshalb die **Diversifikations-Theorie** (Markowitz) den Wirtschafts-Nobelpreis erhalten hat.
 
-## Deine Investment-Ziele
+### Deine Investment-Ziele
 
 ***Bevor*** du mit der Investement-Strategie beginnst, beantworte folgende Leitfragen:
 
 - <u>Gegeben deiner aktuellen Lebenssituation (insb. Alter, Familienstand & Arbeitssituation)</u>: *was ist der **Anteil an "Cash"**, der du bereit bist, in dein Investment-Portfolio zu stecken?*
 - *Wie viel Geld soll dein Portfolio umfassen, bis du "zufrieden" bist und - theoretisch - niemals mehr in der Lage wärst, zu investieren (damit du dich auch um die **wirklich** wichtigen Dinge im Leben kümmern kannst, wie z.B. Kinder erziehen & Familie, Hobbies & Gesundheit)?*
 
-## Methodik 
+### Methodik 
 
 Am besten geht das, wenn du jeweils **1x jährlich deine Finanzen vom _vergangenen_ Jahr** Revue passierst.
 
@@ -97,11 +97,11 @@ In der obigen Datenbank gibt es bis zu **20'000 Einträge zu Firmen**. Warren is
 
 In diesem Sub-Kapitel geht es darum, dir ***Fachwissen aus der Börsenwelt*** näher zu bringen, damit du noch fundiertere Investment-Entscheidungen fällen kannst.
 
-### Indizes von Börsen
+### Domainwissen für Einsteiger
 
-- The S&P 500 is a "weighted index" (the weights depend on the companies' market-capitalisation), which puts more weight on "winners" ([Youtube-Video von Marc Tillbury, März 2026](https://youtu.be/O8t50OxsfB8?si=OWC1ke2vlqIhQoiq)).
-- An alternative to the (US based) S&P500, would be to have a "Global (marketcap weighted) index": this way, you avoid being dependent on the US-economy alone (it is risky to solely bet on US-companies; [Youtube-Video von Marc Tillbury, März 2026](https://youtu.be/O8t50OxsfB8?si=OWC1ke2vlqIhQoiq)).
+Hier sind einige Fakten, die sehr nützlich sind, wenn du anfängst, dich mit Investitionen & Finanzmärkten auseinanderzusetzen (siehe auch [Youtube-Video von Marc Tillbury, März 2026](https://youtu.be/O8t50OxsfB8?si=OWC1ke2vlqIhQoiq)):
 
-### Rohstoffe
+- <u>**Wie genau funktionieren die gewichteten Indizes**</u>: The S&P 500 is a "weighted index" (the weights depend on the companies' market-capitalisation), which puts more weight on "winners".
+- <u>**Indizes approximieren quasi immer Wirtschaftssektoren von spezifischen Volkswirtschaften**</u>: An alternative to the (US based) S&P500, would be to have a "Global (marketcap weighted) index": this way, you avoid being dependent on the US-economy alone (it is risky to solely bet on US-companies).
+- <u>**Bedeutung vom Rohstoff Gold in unsicheren Zeiten**</u>: Gold is implemented in the "Basel 3" act and China is investing massively into gold, which will weaken the dollar-dominance in the long-run.
 
-- Gold is implemented in the "Basel 3" act and China is currently (2026) investing massively into gold, which will weaken the dollar-dominance in the long-run ([Youtube-Video von Marc Tillbury, März 2026](https://youtu.be/O8t50OxsfB8?si=OWC1ke2vlqIhQoiq)).
