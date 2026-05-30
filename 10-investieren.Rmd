@@ -25,19 +25,20 @@ Hier die Übersicht, wie du **dein Leben mit einer (simplen) "Investment-Strateg
 ![Simpler Finanzplan für die Investition deines Geldes](docs/bilder/investment/plan/simpler-investment-plan.png)
 
 
-### Grobe Faustregeln, die es *immer* zu respektieren gilt?
+## Grobe Faustregeln, die es *immer* zu respektieren gilt?
 
 - Investieren *niemals* dein ganzes *Vermögen* in rein spekulative Anlagen (z.B. "Bitcoin" in den 2020er Jahren).
-- Versuche *immer*, **deine Investments zu diversifizieren**, also z.B. 60% deines Investment-Vermögens in Rohstoffe, 30% in Aktien und 10% in Bonds. Es gibt einen Grund, weshalb die **Diversifikations-Theorie** (Markowitz) den Wirtschafts-Nobelpreis erhalten hat.
+- **Vermeide es, den "richtigen" Zeitpunkt für Investitionen abzuwarten**. Es ist besser, sowohl auf das „gute Ergebnis“ als auch auf das „schlechte Ergebnis“ (e.g. the counterfactual) zu setzen und das Portfolio im Laufe der Zeit anzupassen.
+  - <u>Konkret</u>: Versuche *immer*, **deine Investments zu diversifizieren**, also z.B. 60% deines Investment-Vermögens in Rohstoffe, 30% in Aktien und 10% in Bonds. Es gibt einen Grund, weshalb die **Diversifikations-Theorie** (Markowitz) den Wirtschafts-Nobelpreis erhalten hat.
 
-### Deine Investment-Ziele
+## Deine Investment-Ziele
 
 ***Bevor*** du mit der Investement-Strategie beginnst, beantworte folgende Leitfragen:
 
 - <u>Gegeben deiner aktuellen Lebenssituation (insb. Alter, Familienstand & Arbeitssituation)</u>: *was ist der **Anteil an "Cash"**, der du bereit bist, in dein Investment-Portfolio zu stecken?*
 - *Wie viel Geld soll dein Portfolio umfassen, bis du "zufrieden" bist und - theoretisch - niemals mehr in der Lage wärst, zu investieren (damit du dich auch um die **wirklich** wichtigen Dinge im Leben kümmern kannst, wie z.B. Kinder erziehen & Familie, Hobbies & Gesundheit)?*
 
-### Methodik 
+## Methodik 
 
 Am besten geht das, wenn du jeweils **1x jährlich deine Finanzen vom _vergangenen_ Jahr** Revue passierst.
 
@@ -45,7 +46,7 @@ Hier das Video (_lokaler_ Pfad):
 
 `./Documents/Life/03 Investment/1-Haushaltsplanung/1-yearly-budget-simulation/How to Monitor your Yearly Costs of Living & derive a meaningful and adequate Investment-Strategy?.mov`
 
-#### Du investierst zum ersten Mal in die Aktienmärkte?
+### Du investierst *zum ersten Mal* in die Aktienmärkte? | Prerequisits before getting started 
 
 Dann solltest du überlegen - via deinem Bauchgefühl & das Verfolgen der Tagesschau - ob die *generelle Marktstimmung* aktuell eher "gut" oder "schlecht" ist. 
 
@@ -82,10 +83,25 @@ Die obige Analyse & Schlussfolgerungen wurden auch - 3 Monate später (Mai 2026)
 
 - Quelle & Methodology can be found in the video of Awesome Coding (2026): https://youtu.be/caJUD2c3QRQ?is=Yvm_YS3jC3RK2vs9
 
-## Investing mit Warren Buffet
+### Value-Investing | Die "Warren Buffet" Investment-Strategie
 
-Der Amerikaner Warren Buffet ist DER grösste Investor der letzten 100 Jahre und war in der Mitte der 2000er Jahre der reichste Mann der Welt. Sein Reichtum kam aus seinen konsistenten Investments via seiner Firma Berkshire Hathaway. 
+Der Amerikaner Warren Buffet ist DER grösste Investor der letzten 100 Jahre und war in der Mitte der 2000er Jahre der reichste Mann der Welt. Sein Reichtum kam aus seinen konsistenten Investments via seiner Firma Berkshire Hathaway und - über die Zeit - sind seine Presse-Konferenzen legendär geworden. 
 
-- Wenn du auf der Suche nach neuen Investment bist, kannst du die folgende Datenbank verwenden, um deine Investments zu planen: https://faq.library.upenn.edu/business/faq/45586
+Viele Menschen haben dabei versucht, via Fragen sein "Geheimrezept" herauszufinden und hier ist die beste Antwort, die ich von Warren selbst gefunden habe 👇
 
-In der obigen Datenbank gibt es bis zu **20'000 Einträge zu Firmen**. Warren hat ist diese Datenbank mehrfach in seinem Leben - Linie für Linie - durchgegangen, um Firmen zu identifizieren, die hohes Investment-Potential hatten und - aus seiner Sicht - unterbewertet waren. **Studiere die Datenbank und dein Return sollte positiv ausfallen.**
+- <u>Wenn du auf der Suche nach neuen Investment bist, kannst du die folgende Datenbank verwenden, um deine **Investments zu planen**</u>: https://faq.library.upenn.edu/business/faq/45586
+
+In der obigen Datenbank gibt es bis zu **20'000 Einträge zu Firmen**. Warren ist diese Datenbank **mehrfach in seinem Leben** - Linie für Linie - durchgegangen, um Firmen zu identifizieren, die hohes Investment-Potential hatten und - aus seiner Sicht - unterbewertet waren. **Studiere die Datenbank und dein Return sollte positiv ausfallen.**
+
+## Investment-Fachwissen
+
+In diesem Sub-Kapitel geht es darum, dir ***Fachwissen aus der Börsenwelt*** näher zu bringen, damit du noch fundiertere Investment-Entscheidungen fällen kannst.
+
+### Indizes von Börsen
+
+- The S&P 500 is a "weighted index" (the weights depend on the companies' market-capitalisation), which puts more weight on "winners" ([Youtube-Video von Marc Tillbury, März 2026](https://youtu.be/O8t50OxsfB8?si=OWC1ke2vlqIhQoiq)).
+- An alternative to the (US based) S&P500, would be to have a "Global (marketcap weighted) index": this way, you avoid being dependent on the US-economy alone (it is risky to solely bet on US-companies; [Youtube-Video von Marc Tillbury, März 2026](https://youtu.be/O8t50OxsfB8?si=OWC1ke2vlqIhQoiq)).
+
+### Rohstoffe
+
+- Gold is implemented in the "Basel 3" act and China is currently (2026) investing massively into gold, which will weaken the dollar-dominance in the long-run ([Youtube-Video von Marc Tillbury, März 2026](https://youtu.be/O8t50OxsfB8?si=OWC1ke2vlqIhQoiq)).
