@@ -80,6 +80,14 @@ Hier die Kernfragen, die du beim Abschluss dieser Phase beantworten solltest:
 
 Hier wird beschrieben, wie du den Flug buchst.
 
+#### How to do the Check-In mit der Swiss-App? | Nach der Zahlung
+
+Du solltest nach der Bezahlung eine Email erhalten, wo deine „Buchungsreferenz“ steht, beispielsweise so:
+
+![Das ist ein Beispiel einer Buchungs-Referenz.](docs/bilder/reisen/buchungs-referenz.jpg)
+
+Diese Buchubgsreferenz musst du in der App unter „Reservierungs- / E-Ticketnummer“ eingeben und dann solltest du das Check-In erledigt haben! 😊
+
 #### Gepäck-Restriktionen
 
 **Falls du Handgepäck oder einen kleinen Rucksack** mit auf den Flug nimmst, achte auf die vorgebenen **Richtlinien hinsichtlich Grösse des Gepäcks**.
