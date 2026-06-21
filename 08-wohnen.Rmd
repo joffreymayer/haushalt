@@ -365,4 +365,29 @@ Hier die Liste, das zur Pflage der Haushaltsgeräte dazu gehört:
       - **Regelmässig reinigen**:
         - **Wasserbehälter**: Ist dein Tumbler nicht ans Abwasser angeschlossen, musst du das Restwasser nach einigen Nutzungen leeren. Dafür musst du den Wasserbehälter entfernen. Dieser befindet sich meist oben rechts. Mit der Zeit können sich dort auch **üble Gerüche** bilden. Um den Behälter zu reinigen, füllst du heisses, nicht kochendes Wasser in den Behälter. Mische etwas Essig oder Zitronensäure bei. Schüttle den Wasserbehälter anschliessend und lass das Gemisch bis zu einer Stunde einwirken. Spüle den Behälter dann mehrmals gut aus.
 
+## Leben in Stadt VS. Leben auf dem Land
+
+### Vorteile der Stadt gegenüber dem Land
+
+- **Wenn du jung** bist, dann ist die Stadt **voller Abenteuer** und du **lernst dabei wichtige Lebens-Lektionen (unabhängig deiner Eltern) aufgrund der Vielseitigkeit der Leute (es gibt Banditen, aber auch super tolle Personen)**.
+- Du brauchst **kein Auto** in Schweizer Städte wie Zürich oder Bern: die öV-Verbindungen sind extrem gut.
+
+### Nachteile der Stadt gegenüber dem Land
+
+- In der Stadt ist es **sehr laut** (Autos auf Hauptstrassen, Besoffene am Abend, Kirchenglocken am Morgen, etc.)
+- Smog und Abgase führen zu **verschmutzter Luft**.
+- **Verkehrsdichte** macht Velofahren gefährlicher.
+- **Wohnungsknappheit und hohe Mieten**, weil sehr viele Personen in den Schweizer Städten - insbesondere Zürich - leben wollen.
+- etc.
+
+#### Smog: die unsichtbare Gefahr für die Lunge
+
+Hier ein Beispiel von negativer Externalität beim Leben in der Stadt: **Smog**.
+
+Um die (quasi unsichtbaren) Smog-Einflüsse auf deine Lunge zu illustrieren, hier ein Foto, dass **1 Jahr Smog-Ablagerungen auf deinem Balkon** zeigt:
+
+![1 Jahr an Balkon-Smog.](docs/bilder/wohnen/balkon-smog.jpeg)
+
+
+
 
