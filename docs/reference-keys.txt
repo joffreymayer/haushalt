@@ -39,6 +39,7 @@ adresse-des-absender
 familienplanung
 wie-viel-kostet-eine-5-köpfige-familie-in-der-schweiz-eine-monetäre-abschätzung
 finanzplanung
+nutzen-von-bargeld
 vermögenszentrum
 elektronische-geräte
 drucker-setup
