@@ -78,6 +78,37 @@ Hier geht es um alle Mahlzeiten, die ich bereits einmal zubereitet habe, damit d
 
 Guten Appétit :D
 
+### Kartoffelsalat (Sommer)
+
+**Beachte, dass diese Rezept mind. 1h Vorarbeit** benötigt, da du die Kartoffeln abkühlen musst.
+
+Zutaten:
+
+- Kartoffeln (festkochend!)
+   - Schälen
+   - Waschen
+   - Pfanne mit Wasser füllen (alle Kartoffeln müssen *vom Wasser bedeckt sein*)
+       - <ins>Tipp für **gleichmässiges garen**</ins>: Wenn die Kartoffeln alle *unterschiedlich gross* sind, dann **schneide die *grossen* Kartoffeln auf diejenige Grösse klein, wie die **kleinste** Kartoffel. 
+   - Ca. 15min kochen (Messer in dickste Kartoffeln stechen, um zu prüfen, on die Kartoffeln gar sind).
+   - Gekochte Kartoffeln abtrocknen und in eine saubere Schüssel geben.
+   - In den Kühlschrank tun für **mind. 45min**.
+- Sauce:
+   - 1x Esslöffel in leere Schale geben.
+   - 3x Esslöffel Rapsöl hinzutun
+       - <ins>Alternative</ins>: Du kannst hier auch 2.5x Esslöffel Rapsöl & 0.5x Esslöffel Kürbiskern-Öl 🎃
+   - 3x Esslöffel Essig ebenfalls hinzufügen (Vinaigre de Melfor -> kannst du in Konstanz kaufen) 
+   - <ins>Optionale Zutat</ins>: 1.5x Esslöffel Mayonaise
+   - Alles Zutaten gut durchmischen: tadahh, die Sauce ist fertig! 
+   - Sauce in den Kühlschrank tun für **mind. 45min**
+- Bratwurst
+   - Auspacken und mit Messer kleine Kerben in die Bratwust schneiden (jeweils 3x pro lange Seite),
+   - Öl in Pfanne giessen und vorwärmen
+   - Bratwurst ca. 10min kochen
+
+Tadahhh, du hast deinen Kartoffelsalat mit Bratwurst erstellt: en guetä 🔥😊
+
+![Kalter Kartoffelsalat mit Sankt-Galler Bratwurst.](docs/bilder/kochen/kartoffelsalat.jpeg)
+
 ## Haupt-Gang
 
 ### Kürbis-Risotto

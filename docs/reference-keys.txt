@@ -11,6 +11,7 @@ mittagessen
 nachtessen
 salate
 chicoré-salat
+kartoffelsalat-sommer
 haupt-gang
 kürbis-risotto
 thon-salat-für-1-person
