@@ -70,6 +70,9 @@ kennenlernen-der-wohnung-phase-1
 email-reklamation-bei-mängel
 adressenänderung-anmeldung-neue-gemeinde
 einrichten-der-wohnung-phase-2
+planung-der-wohnungseinrichtung
+welche-werkzeuge-benötigt-man-für-eine-wohnungseinrichtung
+montage-der-möbel
 laufender-betrieb-der-wohnung
 was-gehört-zur-pflege-einer-wohnung-übersicht-der-massnahmen
 warum-ist-die-sorgfältige-pflege-der-wohnung-wichtig-relevanz

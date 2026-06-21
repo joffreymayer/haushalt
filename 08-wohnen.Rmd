@@ -252,6 +252,30 @@ Hier eine Übersicht der To-Do's:
 
 ***Wichtig zu verstehen ist, dass - falls du noch gar keine Möbel hast (oder nur sehr wenige) - der Prozess hier sehr lange sein kann und sich <u>über mehrere Monate (gar Jahre)</u> ausstrecken kann.***
 
+#### Planung der Wohnungseinrichtung
+
+Hier müssen du & dein Partner gut abgestimmt sein, denn es **erfordert viel Kommunikation und eine gewisse Kompromissbereitschaft**. 
+
+- <u>Tipp</u>: Am besten du übernimmst das Vorgehen [in diesem Issue](https://github.com/joffreymayer/haushalt/issues/38) für **eine souveräne Planung der Wohnungseinrichtung**.
+
+#### Welche Werkzeuge benötigt man für eine Wohnungseinrichtung?
+
+- Werkzeugkiste mit Schraubenzieher diverser Grössen,
+- Hammer,
+- Schrauben (TORX-Modelle),
+- Schrauben-Dübel,
+- Schlagbohrer mit verschiedenen Aufsätzen, um in Betton, Holz oder anderen Oberflächen zu bohren (Marke: Bosch),
+- etc...
+
+#### Montage der Möbel
+
+**Gelerntes**
+
+- <ins>Perçage</ins>:
+   - Il faut des forrets de différentes taille (diamètre) ainsi que de finitions pour perccer dans le béton ou bois ou métal. 
+  - Quand tu fais un troux dans le béton, tu prends toujours un certain risque de toucher un touyau d'eau. Pour être prudant, utilise toujours les Forrets de plus petits diamètres pour le premier percage. Ensuite, quand le trou est fait, prend le "bon" forret (qui est de la bonne taille pour la vice) et perce de nouveau dans le béton. C'est plus bruiant, mais tu prends beaucoup moins de risque, car les petits forrets casse moins les toyaux (tu sens quand le forret touche quelque chose dans le mur).
+- Gehe **immer** proaktiv auf deine Nachbarn zu, wenn du Bohrungen machst, denn aufgrund von *negative Externalitäten* wie Lärm können sie eventuell motzen (auch wenn es erlaubt ist, sind Leute häufig genervt).
+
 ## Laufender Betrieb der Wohnung 
 
 Egal in welcher Phase du dich im Leben befindest, benötigt eine Wohnung **regelmässige Pflege**. 
