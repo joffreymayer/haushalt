@@ -4,3 +4,4 @@
 *.Rproj
 /docs/data/_builds
 .prompts
+.DS_Store

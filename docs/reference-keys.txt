@@ -125,6 +125,11 @@ nd-round
 pausen-vom-sport
 muskeln-behalten
 mobilität
+fahrrad
+betrieb
+wie-viel-druck-benötigt-ein-reifen-generell
+wie-viel-druck-benötigt-meine-fahrrad-reifen
+warnzeichen-ab-wann-du-dein-reifen-auswechseln-solltest
 krankenkasse
 grundversicherung
 zusatzversicherungen
