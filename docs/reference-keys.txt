@@ -138,6 +138,8 @@ nd-round
 pausen-vom-sport
 muskeln-behalten
 mobilität
+auto
+parkplatz
 fahrrad
 betrieb
 wie-viel-druck-benötigt-ein-reifen-generell

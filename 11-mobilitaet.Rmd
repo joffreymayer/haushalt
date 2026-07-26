@@ -7,6 +7,15 @@ Der **Fokus liegt hier auf Verkehrsmittel, die du besitzen kannst**, wie z.B. ei
 
 Das **Flugzeug wird <u>nicht</u> thematisiert**, sondern [im **"Ferien"-Kapitel**](https://joffreymayer.github.io/haushalt/ferien.html).
 
+## Auto
+
+### Parkplatz
+
+Hier die Preise **per 07. Juni 2026 vom Aldi-Parkplatz**:
+
+![Preise vom Aldi-Parkplatz (Juni 2026).](docs/bilder/mobilitaet/aldi-parkplatz-2026.jpeg)
+--> nur am Sonntag lohnt es sich, denn da bezahlst du 1.50.- pro Stunde (gleicher Preis, wie in der Nacht).
+
 ## Fahrrad
 
 ### Betrieb
