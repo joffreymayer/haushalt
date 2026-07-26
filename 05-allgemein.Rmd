@@ -104,3 +104,13 @@ Hier die Ursprungsquelle als Bild, die zur obigen Liste resultiert hat:
 
 ![Übersicht aller Dienstleistungen des Vermögenszentrums (2026).](docs/bilder/allgemeine-administration/dienstleistungen-vermoegenszentrum.jpeg)
 
+## Korrektes Verhalten bei Notfällen
+
+### Handy-Diebstahl
+
+Ein Handy Diebstahl ist besonders ärgerlich, weil du - möglicherweise - **2 Faktor-Authentifizierungen** oder Bezahl-Apps über dein Handy (bequem) erstellst. 
+**Diese Handy-Abhängigkeit wird dir erst dann wirklich bewusst, wenn dein Handy gestohlen wird. Keine Panik: ich hatte das in 2019 erlebt und habe durch schnelles Reagieren & schliessen aller meiner Konten den Schaden auf 0 begrenzt**.
+
+- Hier ein SRF Artikel (Juli 2026), der dir **eine detaillierte To-Do Liste** anbietet: https://www.srf.ch/radio-srf-1/taschendiebe-in-den-ferien-handy-weg-was-jetzt
+
+
