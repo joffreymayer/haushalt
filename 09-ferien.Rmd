@@ -5,6 +5,24 @@ In diesem Kapitel geht es um das Thema Ferien, insbesondere **zwei Phasen**:
 - Ferienplanung & -buchung,
 - Vobereitung gebuchter Ferien,
 
+## Learnings & Heuristiken aus vergangenen Ferien
+
+- <ins>Allgemeine Organisation</ins>:
+   - <ins>Online Zahlungen für lokale Attraktionen</ins>: Attraktionen mit Tickets passieren zunehmends online. Erstell dir einmalige Emailadresse mit Weiterleitung auf deine Hauptemail (Vivi macht das auch so).
+   - <ins>Bargeld</ins>: Nimm - bei *jeder* deiner Reisen - ein wenig Bargeld mit. Das kann praktisch sein für die Zahlung von Parkplätzen (es gibt viele Parkplätze, die z.B. keine Kartenzahlung erlauben.) oder für das Bezahlen in kleinen Souvenir-Läden (z.B. gibt es Läden, die keine Kreditkartenzahlungen ermöglichen).
+- <u>Hotel</u>:
+  - Frühstück inklusive ist immer super: kein Stress am Morgen. 
+    - <u>Bemerkung</u>: die Qualität des Frühstücks ist eine Wildcard...
+- <u>Essen</u>:
+     - Um gute Restaurants zu finden, **frage am besten das Hotelpersonal**: wir haben sehr gute Restaurants empfohlen bekommen.
+     - Restaurant-Plätze **ohne Reservation** erhälst du (zu zweit) gut am 18:00 oder später ab ca. 20:30. Bei grösseren Gruppen *immer* Reservieren.
+- <ins>Für Kurzreisen mit Auto(< 7 Tage)</ins>: Autofahrten **max. 3.5h** (ohne Stau). 
+  - Geographisch gesehen, macht es Sinn, eher am Bodensee, Genfersee oder Vierwaldstättersee Urlaub zu planen, denn der Gardasee ist zu weit weg für Kurzferien (5.5h 'it Auto).
+  - Plane ein Zwischenstopp ein, falls du während des Tages in die Ferien reist und du weit weg fährst (so erholst du dich besser).
+  - Wenn du Tanken musst: Im Ausland steht für Benzin - aktuell (2026) - oft die "E5" (oder E4?) Bezeichnung (und zusätzlich sollte dann auch "Sans Plomb" bzw. "Senza Piombo" stehen).
+<ins>Ferien an Seen</ins>: Vorsicht vor **Blaualgen**, denn diese können beim **Schlucken von Seewasser tödlich** sein für **Babys**.
+  - Quelle (SRF Seen-Artikel, Juli 2027): https://www.srf.ch/news/schweiz/schweizer-gewaesser-und-hitze-so-warm-sind-die-schweizer-seen-aktuell
+
 ## Ferienplanung & -buchung | Phase 1
 
 In dieser ersten Phase geht es darum, dass du 
@@ -244,21 +262,7 @@ Hier der Ablauf:
   
 ## Analyse vergangener Ferien
 
-### Learnings
-
-- <ins>Allgemeine Organisation</ins>:
-   - <ins>Online Zahlungen für lokale Attraktionen</ins>: Attraktionen mit Tickets passieren zunehmends online. Erstell dir einmalige Emailadresse mit Weiterleitung auf deine Hauptemail (Vivi macht das auch so).
-   - <ins>Bargeld</ins>: Nimm - bei *jeder* deiner Reisen - ein wenig Bargeld mit. Das kann praktisch sein für die Zahlung von Parkplätzen (es gibt viele Parkplätze, die z.B. keine Kartenzahlung erlauben.) oder für das Bezahlen in kleinen Souvenir-Läden (z.B. gibt es Läden, die keine Kreditkartenzahlungen ermöglichen).
-- <u>Hotel</u>:
-  - Frühstück inklusive ist immer super: kein Stress am Morgen. 
-    - <u>Bemerkung</u>: die Qualität des Frühstücks ist eine Wildcard...
-- <u>Essen</u>:
-     - Um gute Restaurants zu finden, **frage am besten das Hotelpersonal**: wir haben sehr gute Restaurants empfohlen bekommen.
-     - Restaurant-Plätze **ohne Reservation** erhälst du (zu zweit) gut am 18:00 oder später ab ca. 20:30. Bei grösseren Gruppen *immer* Reservieren.
-- <ins>Für Kurzreisen mit Auto(< 7 Tage)</ins>: Autofahrten **max. 3.5h** (ohne Stau). 
-  - Geographisch gesehen, macht es Sinn, eher am Bodensee, Genfersee oder Vierwaldstättersee Urlaub zu planen, denn der Gardasee ist zu weit weg für Kurzferien (5.5h 'it Auto).
-  - Plane ein Zwischenstopp ein, falls du während des Tages in die Ferien reist und du weit weg fährst (so erholst du dich besser).
-  - Wenn du Tanken musst: Im Ausland steht für Benzin - aktuell (2026) - oft die "E5" (oder E4?) Bezeichnung (und zusätzlich sollte dann auch "Sans Plomb" bzw. "Senza Piombo" stehen).
+Hier analysieren wir vergangene Ferien und leiten daraus allgemeine Learnings ab (siehe ganz oben).
 
 ### Kurz-Weekend: Gardasee-Reise (Mai 2026)
 

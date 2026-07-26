@@ -92,6 +92,7 @@ vorteile-der-stadt-gegenüber-dem-land
 nachteile-der-stadt-gegenüber-dem-land
 smog-die-unsichtbare-gefahr-für-die-lunge
 ferien
+learnings-heuristiken-aus-vergangenen-ferien
 ferienplanung--buchung-phase-1
 ziele
 nützliche-tools-zur-beantwortung-der-obigen-kernfragen
@@ -115,7 +116,6 @@ spezialsituationen
 reisen-in-kriegszeiten
 abgeleitete-heuristiken
 analyse-vergangener-ferien
-learnings
 kurz-weekend-gardasee-reise-mai-2026
 sport
 ernährung-notwendige-hintergrund-infos
